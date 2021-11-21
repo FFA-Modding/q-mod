@@ -485,6 +485,8 @@ function DoPCHeroFocus(callback, p1_cams, p1_camMoby, p2_cams, p2_camMoby, focus
   local heroes = {get_ratchet(), get_qwark(), get_clank()}
   local p1_index = -1
   local p2_index = -1
+  local p3_index = -1
+  local p4_index = -1
   local i;
     
   local waitTime = 0 
@@ -1975,8 +1977,8 @@ end -- end SetupPVPTankClueSpawns
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~ PVP ENEMY BASE DISPLAY ~~~~~~~~~~~~~~~~~~~~~~ --
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --
 
-local p1_squadPurchased = {{false, false, false, false}, {false, false, false, false}}
-local p2_squadPurchased = {{false, false, false, false}, {false, false, false, false}}
+local p1_squadPurchased = {{false, false, false, false}, {false, false, false, false}, {false, false, false, false}, {false, false, false, false}}
+local p2_squadPurchased = {{false, false, false, false}, {false, false, false, false}, {false, false, false, false}, {false, false, false, false}}
 local squadPurchasedTable = {p1_squadPurchased, p2_squadPurchased}
 
 local leftLaneNumPurchase = {0, 0}
