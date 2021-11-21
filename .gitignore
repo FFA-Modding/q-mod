@@ -36,3 +36,6 @@
 *.x86_64
 *.hex
 
+# Visual Studio Files
+./.vs
+
