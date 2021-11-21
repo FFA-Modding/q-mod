@@ -26,3 +26,13 @@ If you don't see the changes *(plasma barricades...)*, then retry to install the
 
 ## DISCLAIMER
 Please, DO NOT use this mod to win easily on other players by using unavailable weapons. If you get ban for reasons we don't know, we're not responsible of.
+
+# MODDING TOOLS
+
+Mod that you NEED to mod the game:
+- **[PS3 Game Extractor](https://www.psx-place.com/resources/ps3-game-extractor.824/)** used to unpack and pack the `.pkg` and `.psarc` file.
+- **[Unluac](https://github.com/HansWessels/unluac)** used to decompile and recompile the `.lc` files.
+- **[Lua Bytecode](https://lua-bytecode.github.io)** used to add the **`B4404`** headers to the `.lc` files.
+- **[PS3 COBRA 4.88.2 Custom FirmWare](https://youtu.be/y2esLWRKLPI)** used to patch the game on PS3.
+- **[Visual Studio Code](https://code.visualstudio.com)** used to modify the .lua files easily than with the notepad.
+- **[MultiMAN](https://store.brewology.com/multiman.php)** / **PS3 SIDE** / used to modify the files of the PS3 from a computer with the FTP, or from the PS3 itself with the files explorer.
