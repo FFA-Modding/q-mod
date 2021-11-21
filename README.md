@@ -11,9 +11,8 @@ To install the .psarc you have to **PUT** the **.psarc** in the installation fol
 - **EUROPE DISC**: `dev_hdd0/game/BCES001954/USRDIR/data/` and throw the **patch_`xx`.psarc** in here.
 - **EUROPE PACKAGE**: `NPEA00378/USRDIR/data/` and throw the **patch_`xx`.psarc** in here.
 - **AMERICAN DISC**: `dev_hdd0/game/BCUS98380/USRDIR/data/` and throw the **patch** in here.
-- **AMERICAN PACKAGE**: `NPUA80642/USRDIR/data/` and throw the **patch_`xx`.psarc** in here.  
-- **JAPANESE DISC**: unknow
-- **JAPANESE PACKAGE**: `NPJA00089/USRDIR/data` and throw the **patch_`xx`.psarc** in here.
+- **AMERICAN PACKAGE**: `NPUA80642/USRDIR/data/` and throw the **patch_`xx`.psarc** in here.
+- **JAPANESE PACKAGE**: `NPJA00089/USRDIR/data/` and throw the **patch_`xx`.psarc** in here.
 
 To install the **.pkg**, you have to install a **[custom firmware like CFW](https://youtu.be/y2esLWRKLPI)** or **[HFW with HEN](https://www.youtube.com/watch?v=o3yjohY1Ues)** and then:
 - Download the **.pkg** and put it on a USB key formatted in FAT32. Put the .pkg on "`E:\packages\`" (E:\ is an example).
