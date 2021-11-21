@@ -1,3 +1,3 @@
-built/data/configs/weapon.csv
-built/game/scripts/universal_global.lc
-built/game/scripts/zone_whitebox_gameplay.lc
+built\data\configs\weapon.csv
+built\game\scripts\universal_global.lc
+built\levels\acid_refinery_pvp\scripts\zone_whitebox_gameplay.lc
