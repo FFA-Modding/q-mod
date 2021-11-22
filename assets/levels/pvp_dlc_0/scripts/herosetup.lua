@@ -21,7 +21,8 @@ local function EquipAllHeroes(wpn)
 end -- end EquipAllHeroes
 	
 hero_give_weapon(WPN_COMBUSTER, 3)
-EquipAllHeroes(WPN_COMBUSTER, WPN_FLAMETHROWER)
+EquipAllHeroes(WPN_COMBUSTER)
+EquipAllHeroes(WPN_TIMEFIELD)
 
 	-- #################################################################### --
 	-- #######                        GADGETS                       ####### --

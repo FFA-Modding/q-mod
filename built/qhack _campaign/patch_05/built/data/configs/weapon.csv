@@ -87,10 +87,10 @@ WPN_ROCKET_LAUNCHER,,,,,,,,
 ,AutoAim,,1,1,1,1,1,
 ,RateOfFire,,0.75,0.75,0.75,1,1,
 ,AOE,,6,6,10,10,10,
-,MaxAmmo,,5,6,10,10,10,
-,CrateAmmo,,5,6,10,10,10,
-,MaxRange,,100,100,100,100,100,
-,IdealRange,,20,20,20,20,20,
+,MaxAmmo,,300,500,750,1000,15000,
+,CrateAmmo,,300,500,750,1000,1500,
+,MaxRange,,100,150,250,500,750,
+,IdealRange,,50,75,125,250,375,
 ,RotationJoint,,3,3,3,3,3,
 ,XP,,0.0,4050.0,14178.0,25000.0,40000.0,
 ,SpawnChance,,3.0,3.0,3.0,3.0,3.0,
@@ -109,12 +109,12 @@ WPN_COMBUSTER,,,,,,,,
 ,HelpTag,,,,,,,
 ,Damage,Direct impact damage,1.5,1.75,1.75,2,3,3.5
 ,IdealRange,,20,20,20,20,20,25
-,MaxRange,,75,75,75,75,75,101
-,Knockback,Direct impact knockback,1,1,1,1,1,2
+,MaxRange,,100,150,200,300,500,101
+,Knockback,Direct impact knockback,1,2,3,4,5,2
 ,AutoAim,,1,1,1,1,1,1
 ,RateOfFire,shots per second,4,7,10,15,20,25
-,MaxAmmo,,40,50,60,70,80,120
-,CrateAmmo,,40,50,60,70,80,120
+,MaxAmmo,,100,150,250,350,500,1000
+,CrateAmmo,,100,150,250,350,500,1000
 ,RotationJoint,,2,2,2,2,2,2
 ,XP,,0.0,594.0,3000.0,9000.0,15000.0,20000
 ,SpawnChance,,1.5,1.5,1.5,1.5,1.5,1.5
@@ -152,18 +152,18 @@ WPN_DECOY,,,,,,,
 ,AmmoNameTag,,,,,,
 ,AmmoPluralNameTag,,,,,,
 ,HelpTag,,,,,,
-,MaxAmmo,,1,2,3,4,6
-,CrateAmmo,,1,2,3,4,6
-,MaxRange,decoy's inner shape targeting range (outer is 1.5x),20,20,20,20,20
+,MaxAmmo,,10,20,30,40,100
+,CrateAmmo,,10,20,30,40,100
+,MaxRange,decoy's inner shape targeting range (outer is 1.5x),30,35,40,45,50
 ,IdealRange,Distance decoy is shot out,6,6,6,6,6
 ,AutoAim,Height decoy is shot out,0.2,0.2,0.2,0.2,0.2
 ,Damage,decoy projectile damage,1,1.8,2.7,3.5,4
-,AOE,Upgraded version projectile explosion radius,0,0,6,6,6
+,AOE,Upgraded version projectile explosion radius,0,0,6,10,14
 ,AltDamage,maximum damage a decoy can do,30,54,81,105,630
 ,Knockback,decoy projectile knockback,0,0,1,1,1
-,RateOfFire,launcher rate of fire,1,1.2,1.3,1.5,1.5
-,Misc,decoy's rate of fire,0.6,0.6,0.6,0.8,1
-,Duration,decoy's health,7.5,7.5,10,13,16
+,RateOfFire,launcher rate of fire,5,5,5,5,5
+,Misc,decoy's rate of fire,1,2.5,4,6.5,7
+,Duration,decoy's health,15,25,30,45,50
 ,SpawnCount,percentage of damage taken from enemies (use whole integers - value is out of 100),50,50,50,50,50
 ,RotationJoint,,2,2,2,2,2
 ,XP,,0.0,540.0,3645.0,7290.0,15000.0
@@ -184,11 +184,11 @@ WPN_ICE_BEAM,,,,,,,
 ,Damage,"default ""freeze hp"" damage per second for enemies that don't have a FreezeTime",5,8,12,15,20
 ,AltDamage,damage from max level shatter,0,0,5,5,5
 ,Knockback,knockback from max level shatter,0,0,2,2,2
-,RateOfFire,,2,2,2,2,2
-,MaxRange,,75,75,75,75,75
-,IdealRange,,15,15,15,15,15
-,MaxAmmo,,15,20,25,30,30
-,CrateAmmo,,15,20,25,30,30
+,RateOfFire,,4,8,16,16,16
+,MaxRange,,75,100,150,200,275
+,IdealRange,,50,50,75,100,135
+,MaxAmmo,,30,60,120,240,480
+,CrateAmmo,,30,60,120,240,480
 ,RotationJoint,,2,2,2,2,2
 ,XP,,0.0,900.0,3600.0,10800.0,20000.0
 ,SpawnChance,,2.0,2.0,2.0,2.0,2.0
@@ -204,19 +204,19 @@ WPN_THUNDERSTRIKE,,,,,,,
 ,AmmoNameTag,,,,,,
 ,AmmoPluralNameTag,,,,,,
 ,HelpTag,,,,,,
-,Damage,Lightning damage,3,4,5,6,8
+,Damage,Lightning damage,5,10,15,20,25
 ,AltDamage,Damage from tornados at max level,0,0,0,0,0
-,AOE,Max Range of cloud to hit enemies with lightning,15,15,15,15,15
-,Duration,Cloud duration (w/o being merged),15,18.3,21.7,25,30
+,AOE,Max Range of cloud to hit enemies with lightning,15,20,30,40,60
+,Duration,Cloud duration (w/o being merged),15,20,30,40,60
 ,Misc,Turret HP,1000000,1000000,1000000,1000000,1000000
 ,IdealRange,,15,18.3,21.7,25,25
-,MaxRange,Max Range to target other clouds,40,40,40,40,40
+,MaxRange,Max Range to target other clouds,40,60,80,120,160
 ,Knockback,Lightning knockback,2,2,2,2,2
 ,AutoAim,trajectory height,2,2,2,2,2
-,RateOfFire,throw rate (not lightning rate),1.25,1.25,1.25,1.25,1.25
+,RateOfFire,throw rate (not lightning rate),2,4,6,6,10
 ,SpawnCount,max number of lightning strikes per cloud,1000,1000,1000,1000,1000
-,MaxAmmo,,1,2,3,4,5
-,CrateAmmo,,1,2,3,4,5
+,MaxAmmo,,10,20,30,100,300
+,CrateAmmo,,10,20,30,100,300
 ,RotationJoint,,2,2,2,2,2
 ,XP,,0.0,946.0,2835.0,6751.0,8730.0
 ,SpawnChance,,0.5,0.5,0.5,0.5,0.5
@@ -233,14 +233,14 @@ WPN_ZURKON,,,,,,,
 ,AmmoNameTag,,,,,,
 ,AmmoPluralNameTag,,,,,,
 ,HelpTag,,,,,,
-,Damage,Mr Zurkon damage per shot,2,4,4,5,6
+,Damage,Mr Zurkon damage per shot,2,4,6,8,10
 ,AltDamage,Mr Zurkon mini-nuke damage when destroyed,0,0,20,30,40
-,Knockback,Mr Zurkon knockback per shot,0,0,0,0,0
+,Knockback,Mr Zurkon knockback per shot,0.5,0.5,0.5,0.5,0.5
 ,RateOfFire,how frequently ratchet can throw a Mr Zurkon,1,1,1,1,1
-,AOE,mini-nuke AOE,0,0,10,10,10
-,MaxRange,target range for Mr Zurkon,32,32,32,32,32
-,Misc,rate of fire for Mr Zurkon,2,2,3,4,5
-,SpawnCount,how many shots does Mr Zurkon get?,30,38,47,55,55
+,AOE,mini-nuke AOE,0,0,10,30,60
+,MaxRange,target range for Mr Zurkon,32,40,60,100,120
+,Misc,rate of fire for Mr Zurkon,4,6,8,10,12
+,SpawnCount,how many shots does Mr Zurkon get?,100,200,300,500,600
 ,Duration,HITPOINTS for Mr Zurkon,25,30,35,45,50
 ,MaxAmmo,,4,4,4,5,5
 ,CrateAmmo,,4,4,4,5,5
@@ -259,16 +259,16 @@ WPN_GRENADE_LAUNCHER,,,,,,,
 ,AmmoNameTag,,,,,,
 ,AmmoPluralNameTag,,,,,,
 ,HelpTag,,,,,,
-,MaxAmmo,,10,12,14,16,18
-,CrateAmmo,,10,12,14,16,18
-,MaxRange,,55,55,55,55,55
-,IdealRange,Doubles as default range of lob,16,16,16,16,16
+,MaxAmmo,,100,200,300,400,500
+,CrateAmmo,,100,200,300,400,500
+,MaxRange,,55,100,150,200,300
+,IdealRange,Doubles as default range of lob,16,20,30,60,100
 ,AutoAim,Default height of lob,2,2,2,2,2
-,Damage,grenade damage,10,12,14,16,18
-,AltDamage,bomblet damage,0,0,2,3,4
-,Knockback,grenade knockback,2,2,2,2,3
-,AOE,grenade blast radius,8,8,10,10,12
-,RateOfFire,,1,1,1,1,1
+,Damage,grenade damage,10,20,30,30,40
+,AltDamage,bomblet damage,0,0,2.5,5,10
+,Knockback,grenade knockback,2,2,3,4,5
+,AOE,grenade blast radius,8,8,10,12,16
+,RateOfFire,,1,2,4,8,10
 ,RotationJoint,,2,2,2,2,2
 ,XP,,0.0,1800.0,5400.0,12600.0,20000.0
 ,SpawnChance,,3.0,3.0,3.0,3.0,3.0
@@ -284,17 +284,17 @@ WPN_FLAMETHROWER,,,,,,,
 ,AmmoNameTag,,,,,,
 ,AmmoPluralNameTag,,,,,,
 ,HelpTag,,,,,,
-,Damage,,6,7,8,9,10
-,AltDamage,damage per second to enemies caught on fire,0,1,1,2,3
+,Damage,,10,20,30,40,50
+,AltDamage,damage per second to enemies caught on fire,0,1,3,7,10
 ,Duration,time the flame lasts for enemies caught on fire,0,0,6,6,6
 ,Knockback,,0,0,0,0,0
-,AutoAim,,0,0,0,0,0
+,AutoAim,,0,1,2,3,3
 ,RateOfFire,,10,10,10,10,10
-,MaxRange,Targeting range,15,18,20,20,20
-,IdealRange,Flame range,15,18,20,20,20
-,MaxAmmo,1 ammo used per second,20,25,30,35,50
-,CrateAmmo,,20,25,30,35,50
-,Misc,speed of flame,25,25,25,25,25
+,MaxRange,Targeting range,15,18,25,30,40
+,IdealRange,Flame range,15,18,25,30,40
+,MaxAmmo,1 ammo used per second,50,100,200,300,450
+,CrateAmmo,,50,100,200,300,450
+,Misc,speed of flame,25,30,40,40,50
 ,RotationJoint,,2,2,2,2,2
 ,XP,,0.0,324.0,945.0,2160.0,4960.0
 ,SpawnChance,,1.5,1.5,1.5,1.5,1.5
@@ -358,16 +358,16 @@ WPN_GROOVITRON,,,,,,,
 ,AmmoNameTag,,,,,,
 ,AmmoPluralNameTag,,,,,,
 ,HelpTag,,,,,,
-,Damage,Damage done by upgraded version on drop,0,0,10,10,10
+,Damage,Damage done by upgraded version on drop,0,0,10,25,50
 ,Knockback,Knockback of upgraded version on drop,0,0,2,2,2
 ,RateOfFire,,1,1,1,1,1
 ,IdealRange,,15,15,15,15,15
-,MaxRange,,24,24,24,24,24
+,MaxRange,,24,50,50,50,75
 ,MaxAmmo,,1,2,2,3,4
 ,CrateAmmo,,1,2,2,3,4
 ,RotationJoint,,2,2,2,2,2
-,AOE,affected area radius and radius of upgraded explosion,10,10,10,10,12
-,Duration,length of effect,10.0,10.0,15.0,20.0,20.0
+,AOE,affected area radius and radius of upgraded explosion,10,20,30,40,75
+,Duration,length of effect,10.0,15.0,25.0,50.0,60.0
 ,IdealRange,,2,,,,
 ,XP,,0.0,200.0,1000.0,1800.0,2600.0
 ,AutoAim,trajectory height,2,2,2,2,2
@@ -407,19 +407,19 @@ WPN_BUZZ_BLADES,,,,,,,
 ,AmmoNameTag,,,,,,
 ,AmmoPluralNameTag,,,,,,
 ,HelpTag,,,,,,
-,Damage,Direct impact damage,4,5,6,7,8
+,Damage,Direct impact damage,4,6,10,15,20
 ,IdealRange,,20,20,20,20,20
-,MaxRange,,75,75,75,75,75
+,MaxRange,,75,100,150,200,200
 ,Knockback,Direct impact knockback,1,1,1,1,1
 ,AutoAim,,1,1,1,1,1
-,RateOfFire,shots per second,3,3,3,4,4
-,MaxAmmo,,30,35,40,45,50
-,CrateAmmo,,30,35,40,45,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,RateOfFire,shots per second,3,5,10,20,30
+,MaxAmmo,,60,100,300,500,1000
+,CrateAmmo,,60,100,300,500,1000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,RotationJoint,,2,2,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,AOE,Upgraded version explosion radius,0,0,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,AltDamage,Upgraded version explosion damage,0,0,2,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,AOE,Upgraded version explosion radius,0,0,6,10,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,AltDamage,Upgraded version explosion damage,0,0,2,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,XP,,0,1620,5063,12150,16000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Misc,Max number of bounces,1,2,3,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Misc,Max number of bounces,1,2,4,8,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,SpawnChance,,1.5,1.5,1.5,1.5,1.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 WPN_SUBWOOFER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -433,18 +433,18 @@ WPN_SUBWOOFER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,AmmoPluralNameTag,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,HelpTag,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,XP,,0,3375,10125,20250,30250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Damage,Minimum Damage,10.0,12,12,14,18.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,AOE,Width of cone at max range,12.0,14.0,16.0,16.0,18.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Range,,15,18,21,24,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Damage,Minimum Damage,10.0,15,20,30,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,AOE,Width of cone at max range,12.0,20.0,30.0,35.0,40.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Range,,15,22,34,37,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Knockback,,2,2,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,AutoAim,,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,RateOfFire,,1.5,1.5,1.5,1.5,1.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,MaxAmmo,,15,15,20,20,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,CrateAmmo,,15,15,20,20,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,RateOfFire,,1.5,2,3,6,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,MaxAmmo,,20,30,40,50,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,CrateAmmo,,20,30,40,50,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,SpawnChance,,2,2,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,RotationJoint,,3,3,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Misc,Delay before upgraded version does gunk damage,0,0,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,AltDamage,Upgraded gunk damage (it stacks),0,0,6,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,AltDamage,Upgraded gunk damage (it stacks),0,0,6,10,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 WPN_SWARMER,,,,,,,
 ,NameTag,,ITEM_ENEMY_SWARMER,,,,
