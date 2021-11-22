@@ -43,7 +43,12 @@ set_defense_available(WPN_GROOVITRON_TRAP, get_defense_allowed(WPN_GROOVITRON_TR
 -- set_defense_available(WPN_WEAK_BARRICADE, get_defense_allowed(WPN_BARRICADE))
 set_defense_available(WPN_HEAVY_BARRICADE, get_defense_allowed(WPN_HEAVY_BARRICADE))
 set_defense_available(WPN_ELECTRO_BARRICADE, get_defense_allowed(WPN_ELECTRO_BARRICADE))
+set_defense_available(WPN_PLASMA_BARRICADE, get_defense_allowed(WPN_PLASMA_BARRICADE))
 
+-- WEAPONS UNLOCK
+set_unlockable_weapon_priority(WPN_TIMEFIELD, 1) -- Set the Time-bomb to unlocked.
+
+-- OTHER STUFF
 enemy_set_inner_awareness(crate_cache_missileface, 30)
 enemy_set_outer_awareness(crate_cache_missileface, 60)
 

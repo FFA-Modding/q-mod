@@ -20,6 +20,7 @@ set_unlockable_weapon_priority(WPN_FLAMETHROWER, 1)
 set_unlockable_weapon_priority(WPN_THUNDERSTRIKE, 1)
 set_unlockable_weapon_priority(WPN_ZURKON, 1)
 set_unlockable_weapon_priority(WPN_SUBWOOFER, 1)
+set_unlockable_weapon_priority(WPN_TIMEFIELD, 1) -- Set the Time-bomb to unlocked.
 --set_unlockable_weapon_priority(WPN_BUZZ_BLADES, 1)
 --set_unlockable_weapon_priority(WPN_GROOVITRON, 1)
 --set_unlockable_weapon_priority(WPN_CRITTER_STRIKE, 1)

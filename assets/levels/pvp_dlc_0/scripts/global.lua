@@ -30,3 +30,4 @@ set_defense_available(WPN_GROOVITRON_TRAP, get_defense_allowed(WPN_GROOVITRON_TR
 set_defense_available(WPN_WEAK_BARRICADE, get_defense_allowed(WPN_WEAK_BARRICADE))
 set_defense_available(WPN_HEAVY_BARRICADE, get_defense_allowed(WPN_HEAVY_BARRICADE))
 set_defense_available(WPN_ELECTRO_BARRICADE, get_defense_allowed(WPN_ELECTRO_BARRICADE))
+set_defense_available(WPN_PLASMA_BARRICADE, get_defense_allowed(WPN_PLASMA_BARRICADE))
