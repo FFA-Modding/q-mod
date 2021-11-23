@@ -1,0 +1,9 @@
+;BLUS30654
+;NeverDead
+;From SHAkA
+
+:PROFILE
+
+[MAX XP]
+write at 0x000004DD:0x98967F00
+write at 0x000004E1:0x98967F00

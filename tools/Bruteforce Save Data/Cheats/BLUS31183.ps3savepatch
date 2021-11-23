@@ -1,0 +1,8 @@
+;BLUS31183
+;Rayman Legends
+; From SHAkA
+
+:SYS-DATA
+
+[Max Lums]
+write at 0x00002A99:0x3B9AC9FF

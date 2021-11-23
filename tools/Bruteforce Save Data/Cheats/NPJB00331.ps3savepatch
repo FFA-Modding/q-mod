@@ -1,0 +1,31 @@
+;JoJo's Bizarre Adventure All-Star Battle (PSN) aka Jojo no Kimyou na Bouken: All-Star Battle
+;NPJB00331
+;From Keha World
+
+:JOJOASB.S
+
+[Gold 9999900]
+20001CB0 0098961C
+ 
+[Gold 99999999 (Alt)]
+20001CB0 05F5E0FF
+
+[Character Unlock - Jean Pierre Polnareff]
+000032DF 00000040
+000032E3 00000040
+000032E7 00000040
+
+[Character Unlock - Dio Brando]
+00007557 00000040
+0000755B 00000040
+0000755F 00000040
+
+[Character Unlock - Wamuu]
+00008B7F 00000040
+00008B83 00000040
+00008B87 00000040
+
+[default:Update crc32 (required)]
+set range:0x0,0x2038F3
+set [crc]:crc32big
+write at 0x2038F4:[crc]

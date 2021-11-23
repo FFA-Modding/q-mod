@@ -1,0 +1,30 @@
+;NPJB00403
+;Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi (PSN)
+;From Keha World
+ 
+:USR-DATA
+ 
+[Money 9999999]
+2000BD4C 0098967F
+ 
+[Escha Exp 999999]
+2000BD70 000F423F
+
+[Logy Exp 999999]
+2000C034 000F423F
+
+[Awin Exp 999999]
+2000C2F8 000F423F
+
+[Alchemy Exp 999999]
+20032F20 000F423F
+ 
+[Job Points - Total]
+2003CD96 000F423F
+
+[Job Points - Interval]
+2003CDC2 000F423F
+
+[Container Material List 1 to 100 Changes 99 Pieces]
+400307E4 00000063
+40640024 00000000

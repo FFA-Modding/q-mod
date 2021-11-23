@@ -1,0 +1,12 @@
+;BLES01724
+;FUSE
+
+:GAMESAVE
+
+[Update CRC64 ECMA 182 for GAMESAVE (Required)]
+set [size]:read(8,4)
+set [size]:[size]-1
+set range:0x000000,[size]
+set [hash]:crc64_ecma
+set pointer:eof-0x7
+write next (0):[hash]

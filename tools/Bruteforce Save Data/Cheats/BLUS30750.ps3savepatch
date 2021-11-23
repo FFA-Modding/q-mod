@@ -1,0 +1,15 @@
+; Resident Evil: Operation Raccoon City
+; BLUS30750
+
+[Update Checksum #1 for RERC.DAT (Required)]
+;set range:????,????
+;set [hash]:????
+;write at 0x000058:[hash]
+
+[Update Checksum #2 CRC32 for RERC.DAT (Required)]
+;set range:0x000004,0x063FFF
+set pointer:eof+1
+set range:0x000004,pointer
+set [hash]:CRC32
+set [hash]:xor:FFFFFFFF
+write at 0x000000:[hash]

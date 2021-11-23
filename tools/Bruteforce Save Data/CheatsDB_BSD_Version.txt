@@ -1,0 +1,2298 @@
+----------------------------------------------------------------------
+http://bruteforcesavedata.forumms.net/ - Cheats Database For PS3 Bruteforce Save Data 4.5.1
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+For latest updates & cheats, please visit http://bruteforcesavedata.forumms.net/
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Cheats Database - Version History
+----------------------------------------------------------------------
+
+Version 3.00 (Feb 02, 2014) - 1040
+- Added Minecraft NPUB31419
+- Added Minecraft NPEB01899
+- Added Minecraft NPJB00539
+- Added Batman: Arkham City™ [Game of the Year Edition] BLES01587
+- Added Tales of Graces™ f BLAS50501
+- Added Driver: San Francisco BLUS30536
+- Added Driver: San Francisco BLES00891
+- Added Driver: San Francisco BLES00951
+- Added Driver: San Francisco NPEB00632
+- Added Driver: San Francisco BLJM60231
+- Added Driver: San Francisco BLAS50304
+- Updated Batman: Arkham City™ [Game of the Year Edition] BLUS30978
+- Updated Tales of Graces™ f BLES01617
+- Updated Tales of Graces™ f BLUS30903
+
+Version 2.33 (Jan 07, 2014) - 1029
+- Added Drakengard 3 BLJM61043
+- Updated Final Fantasy X / X-2 HD Remaster BLES01880
+- Updated Final Fantasy X / X-2 HD Remaster BLJM61093
+- Updated Final Fantasy X / X-2 HD Remaster BLUS31211
+- Updated Star Ocean: The Last Hope International MRTC00001
+
+Version 2.32 (Jan 06, 2014) - 1028
+- Updated Final Fantasy X / X-2 HD Remaster BLES01880
+- Updated Final Fantasy X / X-2 HD Remaster BLJM61093
+- Updated Final Fantasy X / X-2 HD Remaster BLUS31211
+
+Version 2.31 (Jan 04, 2014) - 1028
+- Added BlazBlue: Chronophantasma (PSN) NPJB00354
+- Updated Grand Theft Auto V BLUS31156
+- Updated Grand Theft Auto V BLES01807
+- Updated Star Ocean: The Last Hope International MRTC00001
+- Removed BlazBlue: Chronophantasma BLJS10226 (Wrong ID)
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 2.30 (Jan 03, 2014) - 1028
+- Added Knights Contract BLES01001
+- Added Knights Contract BLUS30582
+- Updated Final Fantasy X / X-2 HD Remaster BLES01880
+- Updated Final Fantasy X / X-2 HD Remaster BLJM61093
+- Updated Final Fantasy X / X-2 HD Remaster BLUS31211
+
+Version 2.29 (Jan 02, 2014) - 1026
+- Added Contrast (PSN) NPEB01861
+- Added Contrast (PSN) NPUB31364
+- Added Final Fantasy X / X-2 HD Remaster BLES01880
+- Added Final Fantasy X / X-2 HD Remaster BLJM61093
+- Added Final Fantasy X / X-2 HD Remaster BLUS31211
+- Added Red Dead Redemption BLES00680
+
+Version 2.28 (Jan 01, 2014) - 1020
+- Added BlazBlue: Chronophantasma BLJS10226
+- Added Shin Gundam Musou BLJM61140
+- Added Shin Gundam Musou (PSN) NPJB00533
+
+Version 2.27 (Dec 31, 2013) - 1017
+- Added God Of War: Origins Collection BCES01277
+
+Version 2.26 (Dec 28, 2013) - 1016
+- Updated Ni No Kuni: Wrath Of The White Witch BLES01555
+- Updated Ni No Kuni: Wrath Of The White Witch BLUS30947
+
+Version 2.25 (Dec 24, 2013) - 1016
+- Added Tales of Symphonia Chronicles (PSN) NPJB00421
+- Updated Tales of Symphonia Chronicles BLJS10231
+- Removed Ni No Kuni: Wrath Of The White Witch (PSN) NPUB30932 (Duplication)
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 2.24 (Dec 19, 2013) - 1016
+- Updated Diablo III BLUS31188
+- Updated Diablo III BLES01921
+
+Version 2.24 (Dec 19, 2013) - 1016
+- Updated Final Fantasy XIII MRTC00003
+- Updated Ni No Kuni: Wrath Of The White Witch (PSN) NPUB30932
+- Updated Ni No Kuni: Wrath Of The White Witch BLES01555
+- Updated Ni No Kuni: Wrath Of The White Witch BLUS30947
+- Updated One Piece: Pirate Warriors 2 (PSN) NPEB01795
+- Updated One Piece: Pirate Warriors 2 (PSN) NPJB00328
+- Updated One Piece: Pirate Warriors 2 (PSN) NPUB31295
+
+Version 2.23 (Dec 15, 2013) - 1016
+- Added Saint Seiya: Brave Soldiers BLES01936
+- Added Saint Seiya: Brave Soldiers BLUS31357
+- Added Super Robot Taisen OG: Dark Prison (PSN) NPJB00521
+
+Version 2.22 (Dec 14, 2013) - 1013
+- Added Fallout: New Vegas BLES00904
+- Added Fallout: New Vegas BLUS30500
+- Added One Piece: Pirate Warriors 2 (PSN) NPUB31295
+- Updated Dead Nation: Road of Devastation (PSN) NPEA00143
+- Updated Dead Nation: Road of Devastation (PSN) NPUA80358
+- Updated Fight Night Champion (PSN) NPEB00730
+- Updated Fight Night Champion (PSN) NPUB30595
+- Updated Fight Night Champion BLAS50313
+- Updated Fight Night Champion BLES01039
+- Updated Fight Night Champion BLJM60267
+- Updated Fight Night Champion BLUS30608
+- Updated Ratchet & Clank: Into the Nexus (PSN) NPEA00457
+- Updated Ratchet & Clank: Into the Nexus (PSN) NPUA80908
+- Updated Ratchet & Clank: Into the Nexus BCES01908
+- Updated Ratchet & Clank: Into the Nexus BCUS99245
+- Updated Resident Evil 6 BLES01465
+- Updated Resident Evil 6 BLUS30855
+
+Version 2.21 (Dec 13, 2013) - 1010
+- Added Fight Night Champion (PSN) NPUB30595
+- Added Tales of Vesperia BLJS10053
+- Updated Fight Night Champion (PSN) NPEB00730
+- Updated Fight Night Champion BLAS50313
+- Updated Fight Night Champion BLES01039
+- Updated Fight Night Champion BLJM60267
+- Updated Fight Night Champion BLUS30608
+
+Version 2.20 (Dec 12, 2013) - 1008
+- Updated Disgaea 4 BLES01225
+- Updated Disgaea 4 BLUS30727
+
+Version 2.19 (Dec 10, 2013) - 1008
+- Updated Dai-2-Ji Super Robot Taisen OG BLJS10133
+- Updated Hyperdimension Neptunia Victory BLES01788
+- Updated Hyperdimension Neptunia Victory BLJM60491
+- Updated Hyperdimension Neptunia Victory BLUS31150
+
+Version 2.18 (Dec 09, 2013) - 1008
+- Added Resident Evil: The Darkside Chronicles (PSN) NPEB00816
+- Added Resident Evil: The Umbrella Chronicles (PSN) NPEB00817
+- Added Trine 2 (PSN) NPEB00668
+- Added Trine 2 (PSN) NPUB30331
+- Updated Resident Evil: The Umbrella Chronicles (PSN) NPUB30650
+
+Version 2.17 (Dec 08, 2013) - 1004
+- Updated Dai-2-Ji Super Robot Taisen OG BLJS10133
+- Removed Super Robot Taisen OG: Dark Prison BLJS10133 (Duplication)
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 2.16 (Dec 05, 2013) - 1005
+- Added Dragon's Crown BLES01950
+- Added Super Robot Taisen OG: Dark Prison BLJS10133
+- Added Tales of Xillia 2 BLJS10188
+
+Version 2.15 (Nov 27, 2013) - 1002
+- Added Armored Core 4 BLUS30027
+- Added Armored Core 4 BLES00039
+
+Version 2.14 (Nov 24, 2013) - 1000
+- Added Ratchet & Clank: Into the Nexus (PSN) NPEA00457
+- Added Ratchet & Clank: Into the Nexus (PSN) NPUA80908
+- Added Ratchet & Clank: Into the Nexus BCES01908
+- Added Ratchet & Clank: Into the Nexus BCUS99245
+- Updated The House Of The Dead: Overkill - Extended Cut BLES01326
+- Updated The House Of The Dead: Overkill - Extended Cut BLUS30774
+
+Version 2.13 (Nov 23, 2013) - 996
+- Added Stick It To The Man! (PSN) NPUB31298
+- Added Stick It To The Man! (PSN) NPEB01798
+
+Version 2.12 (Nov 19, 2013) - 994
+- Added Castlevania: Lords of Shadow - Mirror of Fate HD (PSN) NPEB01441
+- Added Castlevania: Lords of Shadow - Mirror of Fate HD (PSN) NPUB31352
+- Added How to Survive (PSN) NPEB01387
+- Added How to Survive (PSN) NPUB31240
+- Added Quantum of Solace BLES00406
+- Added Quantum of Solace BLUS30198
+
+Version 2.11 (Nov 18, 2013) - 988
+- Added CastleStorm (PSN) NPUB30537
+- Added Pro Evolution Soccer 2014 BLES01930
+- Added Pro Evolution Soccer 2014 BLUS31322
+- Added Soccer Tsuku: Pro Soccer Club o Tsukurou! BLJM61064
+- Added World Soccer Winning Eleven 2014 BLJM61106
+- Added XCOM: Enemy Within BLES01851
+- Added XCOM: Enemy Within BLUS31180
+
+Version 2.10 (Nov 15, 2013) - 981
+- Added Cabela's African Adventures (PSN) NPEB01865
+- Added Cabela's African Adventures (PSN) NPUB31309
+- Added Cabela's African Adventures BLUS31275
+- Added The Lord of the Rings: Aragorn's Quest BLES00998
+- Added The Lord of the Rings: Aragorn's Quest BLUS30593
+
+Version 2.09 (Nov 13, 2013) - 976
+- Added EA Sports MMA BLES00987
+- Added EA Sports MMA BLUS30567
+- Added Ninja Gaiden 3: Razor's Edge (PSN) NPEB01327
+- Added Ninja Gaiden 3: Razor's Edge BLES01845
+- Updated Ninja Gaiden 3 BLES01524
+- Updated Ninja Gaiden 3 BLUS30916
+
+Version 2.08 (Nov 11, 2013) - 972
+- Added Akiba's Trip 2 BLJM61105
+- Added Alien Rage (PSN) NPUB30863
+- Added Onechanbara Z: Kagura with NoNoNo! BLJS10221
+- Added Tales of Symphonia Chronicles BLJS10231
+- Updated Mugen Souls BLES01723
+- Updated Mugen Souls BLUS31007
+- Updated Record Of Agarest: War 2 BLES01643
+- Updated Record Of Agarest: War 2 BLUS30881
+
+Version 2.07 (Nov 09, 2013) - 968
+- Added Call of Duty 4: Modern Warfare BLUS30072
+- Added Call of Duty 4: Modern Warfare BLES00149
+- Updated Monsters vs. Aliens BLES00490
+- Updated Monsters vs. Aliens BLUS30273
+
+Version 2.06 (Nov 07, 2013) - 966
+- Updated Castlevania: Lords Of Shadow BLES01047
+- Updated Castlevania: Lords Of Shadow BLUS30339
+
+Version 2.05 (Nov 04, 2013) - 966
+- Updated The House Of The Dead: Overkill - Extended Cut BLES01326
+- Updated The House Of The Dead: Overkill - Extended Cut BLUS30774
+
+Version 2.04 (Nov 03, 2013) - 966
+- Added Call of Duty: Ghosts BLES01945
+- Added Call of Duty: Ghosts BLUS31270
+- Added Call of Duty: Modern Warfare 2 BLES00683
+- Added Call of Duty: Modern Warfare 2 BLUS30377
+- Added Call of Duty: Modern Warfare 3 BLES01428
+- Added Call of Duty: Modern Warfare 3 BLUS30838
+- Added Sonic the Hedgehog (PSN) NPEB00478
+- Added Sonic the Hedgehog (PSN) NPUB30442
+- Updated Battlefield: Bad Company BLES00259
+- Updated Battlefield: Bad Company BLUS30118
+- Updated Chikyuu Boueigun 4 BLJS10209
+- Updated The Guided Fate Paradox (PSN) NPEB01819
+- Updated The Guided Fate Paradox (PSN) NPJB00350
+- Updated The Guided Fate Paradox (PSN) NPUB31320
+
+Version 2.03 (Nov 01, 2013) - 958
+- Added Arcania: The Complete Tale BLES01783
+- Added Arcania: The Complete Tale BLUS31158
+- Added Battlefield: Bad Company BLES00259
+- Added Battlefield: Bad Company BLUS30118
+- Added Bulletstorm BLES01134
+- Added Bulletstorm BLUS30651
+
+Version 2.02 (Oct 30, 2013) - 952
+- Added Grand Slam Tennis 2 BLES00709
+- Added Grand Slam Tennis 2 BLUS30417
+- Updated Uncharted 2: Among Thieves BCES00509
+- Updated Uncharted 2: Among Thieves BCUS98123
+
+Version 2.01 (Oct 29, 2013) - 950
+- Added Naughty Bear BLES00945
+- Added Naughty Bear BLUS30507
+- Updated Uncharted 3: Drake's Deception BCES01176
+- Updated Uncharted 3: Drake's Deception BCUS98233
+
+Version 2.00 (Oct 28, 2013) - 948
+- Added Battle: Los Angeles (PSN) NPEB00544
+- Added Battle: Los Angeles (PSN) NPUB30470
+- Added Blast Factor (PSN) NPEA00020
+- Added Blast Factor (PSN) NPUA80002
+- Added Choplifter HD (PSN) NPEB00853
+- Added Choplifter HD (PSN) NPUB30619
+- Added Heavenly Sword BCES00078
+- Added Heavenly Sword BCUS98132
+- Added NBA Street: Homecourt BLES00038
+- Added NBA Street: Homecourt BLUS30022
+- Added Sengoku Musou 2 with Moushouden & Empires HD Version (PSN) NPJB00439
+- Added SpongeBob SquarePants: Plankton's Robotic Revenge BLUS31276
+- Updated SpongeBob SquarePants: Plankton's Robotic Revenge BLES01911
+
+Version 1.99 (Oct 27, 2013) - 936
+- Added The Guided Fate Paradox (PSN) NPEB01819
+- Added The Guided Fate Paradox (PSN) NPJB00350
+- Added The Guided Fate Paradox (PSN) NPUB31320
+
+Version 1.98 (Oct 26, 2013) - 933
+- Added Dead Block (PSN) NPEB00461
+- Added Dead Block (PSN) NPUB30482
+- Added F.E.A.R. 2: Project Origin BLES00464
+- Added F.E.A.R. 2: Project Origin BLUS30251
+- Added F1 2010 BLES00917
+- Added F1 2010 BLUS30379
+- Added F1 2011 BLES01311
+- Added F1 2011 BLUS30772
+- Added Legend of the Guardians: The Owls of Ga'Hoole BLES00964
+- Added Legend of the Guardians: The Owls of Ga'Hoole BLUS30469
+- Added NBA Jam: On Fire Edition (PSN) NPEB00650
+- Added NBA Jam: On Fire Edition (PSN) NPUB30558
+- Added Sonic & All-Stars Racing Transformed BLES01646
+- Added Sonic & Sega All-Stars Racing BLES00750
+- Added Sonic & Sega All-Stars Racing BLUS30342
+- Added Streets of Rage 2 (PSN) NPEB00508
+- Added Streets of Rage 2 (PSN) NPUB30444
+- Added Winter Sports 3: The Great Tournament BLES00600
+- Removed Sonic & All-Stars Racing Transformed BLES00750 (ID Error)
+- Updated Captain America: Super Soldier BLES01167
+- Updated Captain America: Super Soldier BLUS30642
+- Updated Quantum Conundrum (PSN) NPEB00895
+- Updated Quantum Conundrum (PSN) NPJB00208
+- Updated Quantum Conundrum (PSN) NPUB30601
+- Updated Uncharted: Drake's Fortune BCES00065
+- Updated Uncharted: Drake's Fortune BCUS98103
+
+Version 1.97 (Oct 25, 2013) - 916
+- Added Alien Rage (PSN) NPEB01088
+- Added Fighting Vipers (PSN) NPEB01164
+- Added Fighting Vipers (PSN) NPUB30929
+- Added Guilty Gear XX Accent Core Plus (PSN) NPUB30957
+- Added Magrunner: Dark Pulse (PSN) NPEB01280
+- Added Magrunner: Dark Pulse (PSN) NPUB31129
+- Added NASCAR 2011: The Game (PSN) NPEB00682
+- Added NASCAR 2011: The Game BLUS30604
+- Added Sonic the Fighters (PSN) NPEB01162
+- Added Sonic the Fighters (PSN) NPUB30927
+- Added Street Fighter IV BLES00481
+- Added Street Fighter IV BLUS30265
+- Added Virtua Fighter 2 (PSN) NPEB01163
+- Added Virtua Fighter 2 (PSN) NPUB30928
+- Added Virtua Fighter 5 Final Showdown (PSN) NPEB00913
+- Added Virtua Fighter 5 Final Showdown (PSN) NPUB30625
+
+Version 1.96 (Oct 24, 2013) - 900
+- Added Arcana Heart 3 BLJM60248
+- Added Champion Jockey: G1 Jockey & Gallop Racer BLES01235
+- Added Champion Jockey: G1 Jockey & Gallop Racer BLUS30863
+- Added LEGO Star Wars: The Complete Saga BLES00121
+- Added LEGO Star Wars: The Complete Saga BLUS30079
+- Added Transformers: The Game BLES00092
+- Added Transformers: The Game BLUS30047
+- Updated Dynasty Warriors: Gundam 2 BLES00528
+- Updated Dynasty Warriors: Gundam 2 BLUS30288
+- Updated Dynasty Warriors: Gundam BLES00147
+- Updated Dynasty Warriors: Gundam BLUS30058
+- Updated LEGO Batman: The Videogame BLES00332
+- Updated LEGO Batman: The Videogame BLUS30175
+- Updated LEGO Indiana Jones: The Original Adventures BLES00254
+- Updated LEGO Indiana Jones: The Original Adventures BLUS30141
+- Updated The Last of Us BCES01585
+- Updated The Last of Us BCUS98174
+
+Version 1.95 (Oct 23, 2013) - 893
+- Added Batman: Arkham Origins BLUS31147
+- Updated Batman: Arkham Origins BLUS31207
+- Updated The Last of Us BCUS98174
+- Updated The Last of Us BCES01585
+
+Version 1.94 (Oct 22, 2013) - 892
+- Added Batman: Arkham Origins BLUS31207
+- Added Shaun White Snowboarding BLES00403
+- Added Shaun White Snowboarding BLUS30223
+- Added Toy Story 3 BLES00876
+- Added Toy Story 3 BLUS30480
+
+Version 1.93 (Oct 21, 2013) - 887
+- Added Fuse BLES01724
+- Added Fuse BLUS31040
+- Updated I Am Alive (PSN) NPEB00476
+- Updated I Am Alive (PSN) NPUB30383
+
+Version 1.92 (Oct 20, 2013) - 885
+- Added Homefront BLES00962
+- Added Homefront BLUS30530
+- Added Musou Orochi 2 Ultimate BLJM61084
+- Added Section 8 (PSN) NPEB00200
+- Added Section 8 (PSN) NPUB30161
+- Updated Aliens: Colonial Marines BLES01455
+- Updated Aliens: Colonial Marines BLUS30862
+- Updated Dark Void BLES00723
+- Updated Dark Void BLUS30323
+
+Version 1.91 (Oct 18, 2013) - 880
+- Added Grand Theft Auto V BLUS31156
+- Added Grand Theft Auto V BLES01807
+- Updated Deadpool BLES01789
+- Updated Deadpool BLUS31146
+
+Version 1.90 (Oct 17, 2013) - 878
+- Added Cabela's Dangerous Hunts 2013 BLUS31009
+- Added Dungeon Defenders (PSN) NPEB00652
+- Added Dungeon Defenders (PSN) NPUB30251
+- Updated Resident Evil: Operation Raccoon City BLUS30750
+
+Version 1.89 (Oct 16, 2013) - 875
+- Updated Aliens: Colonial Marines BLES01455
+- Updated Aliens: Colonial Marines BLUS30862
+- Updated Mugen Souls BLES01723
+- Updated Mugen Souls BLUS31007
+
+Version 1.88 (Oct 15, 2013) - 875
+- Added Rayman Legends BLES01863
+- Added Rayman Legends BLUS31183
+- Updated Diablo III BLUS31188
+- Updated Diablo III BLES01921
+- Updated The Amazing Spider-Man BLES01547
+- Updated The Amazing Spider-Man BLUS30828
+
+Version 1.87 (Oct 14, 2013) - 873
+- Added Brothers in Arms: Hell's Highway BLES00318
+- Added Brothers in Arms: Hell's Highway BLUS30165
+- Added Cabela's Outdoor Adventures BLUS30409
+- Added Fairytale Fights BLES00696
+- Added Fairytale Fights BLUS30456
+- Added Planet Minigolf (PSN) NPEB00163
+- Added Planet Minigolf (PSN) NPUB30122
+- Added Quantum Conundrum (PSN) NPJB00208
+- Added Rise of the Argonauts BLES00418
+- Added Rise of the Argonauts BLUS30228
+- Added Rock of Ages (PSN) NPEB00669
+- Added Rock of Ages (PSN) NPUB30332
+- Added Sports Champions BCES01012
+- Added Sports Champions BCUS98177
+- Added Vancouver 2010 - The Official Video Game of the Olympic Winter Games BLES00660
+- Added Vancouver 2010 - The Official Video Game of the Olympic Winter Games BLUS30344
+- Updated Dark Void BLES00723
+- Updated Dark Void BLUS30323
+- Updated The Amazing Spider-Man BLES01547
+- Updated The Amazing Spider-Man BLUS30828
+
+Version 1.86 (Oct 13, 2013) - 857
+- Added Hatsune Miku: Project Diva - Dreamy Theater (PSN) NPJB00047
+- Added Hatsune Miku: Project Diva - Dreamy Theater Extend (PSN) NPJB00201
+- Updated Hatsune Miku: Project Diva F BLJM60527
+- Updated Hatsune Miku: Project Diva F BLUS31319
+- Updated I Am Alive (PSN) NPEB00476
+- Updated I Am Alive (PSN) NPUB30383
+
+Version 1.85 (Oct 12, 2013) - 855
+- Added Orc Attack: Flatulent Rebellion (PSN) NPUB30614
+- Updated NBA 2K14 BLUS31204
+- Updated Batman: Arkham Asylum (GOTY) BLUS30515
+- Updated Batman: Arkham Asylum BLES00503
+- Updated Batman: Arkham Asylum BLUS30279
+
+Version 1.84 (Oct 10, 2013) - 854
+- Added Brave: The Video Game BLES01542
+- Added Brave: The Video Game BLUS30907
+- Added Cartoon Network: Punch Time Explosion XL BLES01622
+- Added Cartoon Network: Punch Time Explosion XL BLUS30834
+- Added Fist Of The North Star: Ken's Rage 2 BLJM60553
+- Added SpongeBob SquarePants: Plankton's Robotic Revenge BLES01911
+- Updated Devil May Cry HD Collection BLES01228
+- Updated Devil May Cry HD Collection BLUS30764
+- Updated Fist Of The North Star: Ken's Rage 2 BLES01801
+- Updated Grand Theft Auto IV / Grand Theft Auto: Episodes From Liberty City BLUS30127
+
+Version 1.83 (Oct 09, 2013) - 848
+- Added Ace Combat Assault Horizon BLES01393
+- Added Ace Combat Assault Horizon BLUS30613
+- Added Aliens vs. Predator BLES00585
+- Added Aliens vs. Predator BLUS30340
+- Added FIFA 14 BLES01876
+- Added FIFA 14 BLUS31189
+- Added FIFA Soccer 08 BLES00132
+- Added FIFA Soccer 08 BLUS30038
+- Added FIFA Soccer 09 BLES00315
+- Added FIFA Soccer 09 BLUS30176
+- Added FIFA Soccer 10 BLES00615
+- Added FIFA Soccer 10 BLUS30385
+- Added FIFA Soccer 11 BLES01059
+- Added FIFA Soccer 11 BLUS30630
+- Added FIFA Soccer 12 BLES01381
+- Added FIFA Soccer 12 BLUS30809
+- Added FIFA Soccer 13 BLES01676
+- Added FIFA Soccer 13 BLUS30998
+- Added FIFA Street 3 BLES00188
+- Added FIFA Street 3 BLUS30099
+- Added Guitar Hero III: Legends of Rock BLES00134
+- Added Guitar Hero III: Legends of Rock BLUS30074
+- Added Megamind: Ultimate Showdown BLES00867
+- Added Megamind: Ultimate Showdown BLUS30518
+
+Version 1.82 (Oct 08, 2013) - 824
+- Added Game of Thrones BLES01580
+- Added Game of Thrones BLUS30939
+- Added Pro Evolution Soccer 2010 BLES00689
+- Added Pro Evolution Soccer 2010 BLUS30404
+- Added Pro Evolution Soccer 2012 BLES01407
+- Added Pro Evolution Soccer 2012 BLUS30805
+- Added Resistance 2 BCES00226
+- Added Resistance 2 BCUS98120
+- Updated Macross 30: Ginga o Tsunagu Utagoe BLJS10184
+- Updated Resistance 3 BCES01118
+- Updated Resistance 3 BCUS98176
+
+Version 1.81 (Oct 05, 2013) - 816
+- Added NBA 2K14 BLUS31204
+- Added NHL 08 BLUS30062
+- Added NHL 08 BLES00118
+- Added NHL 09 BLUS30168
+- Added NHL 09 BLES00298
+- Added NBA Live 09 BLUS30173
+- Added NBA Live 09 BLES00302
+- Added NCAA Basketball 09 BLUS30231
+- Added Blitz: The League II BLUS30203
+- Added Blitz: The League II BLES00397
+- Added Monopoly BLES00387
+- Added Monopoly BLUS30213
+- Added Monopoly Streets BLUS30533
+- Added Monopoly Streets BLES00954
+- Added Pro Evolution Soccer 2008 BLUS30111
+- Added Pro Evolution Soccer 2008 BLES00110
+- Added Pro Evolution Soccer 2009 BLES00338
+- Added Pro Evolution Soccer 2009 BLUS30189
+- Added Pro Evolution Soccer 2011 BLUS30610
+- Added Pro Evolution Soccer 2011 BLES01022
+- Added Pro Evolution Soccer 2013 BLES01708
+- Added Pro Evolution Soccer 2013 BLUS31029
+- Updated Okami HD (PSN) NPEB00900
+- Updated Okami HD (PSN) NPUB30720
+
+Version 1.80 (Oct 05, 2013) - 794
+- Updated Kingdoms of Amalur: Reckoning BLES01251
+- Updated Kingdoms of Amalur: Reckoning BLUS30710
+
+Version 1.79 (Oct 04, 2013) - 794
+- Added Flashback (PSN) NPEB01417
+- Added Flashback (PSN) NPUB31265
+- Added SIREN: Blood Curse (PSN) NPUA80136
+- Added SIREN: Blood Curse BCES00294
+- Updated Nier BLES00826
+- Updated Nier BLUS30481
+- Updated Okami HD (PSN) NPEB00900
+- Updated Okami HD (PSN) NPUB30720
+- Updated Rio BLES01139
+- Updated Rio BLUS30614
+- Updated The Bureau: XCOM Declassified BLES01322
+- Updated The Bureau: XCOM Declassified BLUS30780
+
+Version 1.78 (Oct 03, 2013) - 790
+- Added Crystal Defenders (PSN) NPUB30092
+- Added Crystal Defenders (PSN) NPEB00110
+
+Version 1.77 (Oct 02, 2013) - 788
+- Added Legends of Wrestlemania BLES00492
+- Added Legends of Wrestlemania BLUS30269
+- Added Lucha Libre AAA Heroes del Ring BLUS30640
+- Added Lumines Supernova (PSN) NPEB00066
+- Added Lumines Supernova (PSN) NPUB30048
+- Added Transformers: Revenge of the Fallen BLES00577
+- Added Transformers: Revenge of the Fallen BLUS30297
+- Added WWE '12 BLES01439
+- Added WWE '12 BLUS30841
+- Added WWE SmackDown vs. Raw 2008 BLES00137
+- Added WWE SmackDown vs. Raw 2008 BLUS30082
+- Added WWE SmackDown vs. Raw 2009 BLES00361
+- Added WWE SmackDown vs. Raw 2009 BLUS30194
+- Added WWE SmackDown vs. Raw 2010 BLES00651
+- Added WWE SmackDown vs. Raw 2010 BLUS30412
+- Updated Turning Point: Fall of Liberty BLES00196
+- Updated Turning Point: Fall of Liberty BLUS30119
+
+Version 1.76 (Oct 01, 2013) - 773
+- Added Black Knight Sword (PSN) NPEB00859
+- Updated Black Knight Sword (PSN) NPUB30719
+
+Version 1.75 (Sep 30, 2013) - 772
+- Added Inversion BLUS30360
+- Added Inversion BLES01495
+- Updated Disgaea D2: A Brighter Darkness (PSN) NPEB01818
+- Updated Disgaea D2: A Brighter Darkness (PSN) NPUB31321
+- Updated Mugen Souls BLES01723
+- Updated Mugen Souls BLUS31007
+- Updated Record Of Agarest: War (PSN) NPUB30142
+- Updated Record Of Agarest: War BLES00594
+- Updated Record Of Agarest: War Zero BLES01305
+- Updated Record Of Agarest: War Zero BLUS30686
+
+Version 1.74 (Sep 29, 2013) - 770
+- Added Cars Race-O-Rama BLES00620
+- Added Cars Race-O-Rama BLUS30319
+- Added Payday 2 BLES01902
+- Added Payday 2 BLUS31219
+- Added Payday: The Heist (PSN) NPEA00331
+- Added Payday: The Heist (PSN) NPUA30073
+- Added Rango BLES01164
+- Added Rango BLUS30678
+- Updated Disgaea D2: A Brighter Darkness (PSN) NPEB01818
+- Updated Disgaea D2: A Brighter Darkness (PSN) NPUB31321
+- Updated Final Fantasy XIII-2 BLES01269
+- Updated Final Fantasy XIII-2 BLUS30776
+- Updated Kingdom Hearts HD 1.5 ReMIX BLES01897
+- Updated Kingdom Hearts HD 1.5 ReMIX BLJM60589
+- Updated Kingdom Hearts HD 1.5 ReMIX BLUS31212
+
+Version 1.73 (Sep 28, 2013) - 762
+- Updated Ride to Hell: Retribution BLES01581
+- Updated Ride to Hell: Retribution BLUS30324
+- Updated Sleeping Dogs BLES01661
+- Updated Sleeping Dogs BLJM60501
+- Updated Sleeping Dogs BLUS30927
+
+Version 1.72 (Sep 27, 2013) - 762
+- Added Girl Fight (PSN) NPUB30736
+- Added Soldner-X 2: Final Prototype (PSN) NPUB30105
+- Added Soldner-X 2: Final Prototype (PSN) NPEB90227
+- Updated Kingdom Hearts HD 1.5 ReMIX BLES01897
+- Updated Kingdom Hearts HD 1.5 ReMIX BLJM60589
+- Updated Kingdom Hearts HD 1.5 ReMIX BLUS31212
+
+Version 1.71 (Sep 25, 2013) - 759
+- Added Armored Core: Verdict Day BLES01898
+- Added Armored Core: Verdict Day BLUS31194
+- Added Real Steel (PSN) NPEB00754
+- Added Real Steel (PSN) NPUB30605
+
+Version 1.70 (Sep 24, 2013) - 755
+- Added Kingdoms of Amalur: Reckoning BLES01251
+- Added Kingdoms of Amalur: Reckoning BLUS30710
+
+Version 1.69 (Sep 23, 2013) - 753
+- Added Hot Shots Golf: World Invitational (PSN) NPJA00086
+- Added Hot Shots Golf: World Invitational (PSN) NPUA80864
+- Added Ridge Racer 7 BCES00009
+- Added Ridge Racer 7 BLJS10001
+- Added Ridge Racer 7 BLUS30001
+- Added Ryu ga Gotoku Kenzan! BLJM60064
+- Added Shadows of the Damned BLES01276
+- Added Shadows of the Damned BLUS30653
+- Updated Atelier Ayesha: The Alchemist of Dusk BLES01793
+- Updated Atelier Ayesha: The Alchemist of Dusk BLUS31152
+- Updated Atelier Meruru: The Apprentice Of Arland BLES01593
+- Updated Atelier Meruru: The Apprentice Of Arland BLUS30941
+- Updated Dead Space 3 (PSN) NPUB30906
+- Updated Dead Space 3 BLES01733
+- Updated Dead Space 3 BLUS31053
+- Updated Rune Factory: Oceans BLES01550
+- Updated Rune Factory: Tides Of Destiny BLUS30759
+- Updated Yakuza 4 BLES01081
+- Updated Yakuza 4 BLUS30643
+- Updated Yakuza: Dead Souls BLES01399
+- Updated Yakuza: Dead Souls BLUS30826
+
+Version 1.68 (Sep 22, 2013) - 745
+- Added Devil May Cry 4 BLES00186
+- Added Devil May Cry 4 BLUS30092
+- Added Disgaea D2: A Brighter Darkness (PSN) NPEB01818
+- Added Disgaea D2: A Brighter Darkness (PSN) NPUB31321
+- Updated Atelier Rorona: The Alchemist Of Arland BLES01030
+- Updated Atelier Rorona: The Alchemist Of Arland BLUS30465
+- Updated Disgaea D2: A Brighter Darkness (PSN) NPJB00300
+- Updated Disgaea D2: A Brighter Darkness BLJS10205
+- Updated Eternal Sonata BLES00444
+- Updated Eternal Sonata BLUS30161
+- Updated Lollipop Chainsaw BLES01525
+- Updated Lollipop Chainsaw BLJS10168
+- Updated Lollipop Chainsaw BLUS30917
+- Updated Silent Hill: HD Collection BLES01504
+- Updated Silent Hill: HD Collection BLUS30810
+
+Version 1.67 (Sep 21, 2013) - 741
+- Added Braid (PSN) NPEB00150
+- Added Braid (PSN) NPUB30133
+- Added DeathSpank: The Baconing (PSN) NPEB00631
+- Added DeathSpank: The Baconing (PSN) NPUB30513
+- Updated Devil May Cry HD Collection BLES01228
+- Updated Devil May Cry HD Collection BLUS30764
+- Updated Saints Row: The Third BLES01342
+- Updated Saints Row: The Third BLUS30666
+- Updated Silent Hill: HD Collection BLES01504
+- Updated Silent Hill: HD Collection BLUS30810
+- Updated The Sly Collection BCAS20149
+- Updated The Sly Collection BCES00968
+- Updated The Sly Collection BCUS98246
+
+Version 1.66 (Sep 20, 2013) - 737
+- Added Saints Row: The Third BLES01342
+- Updated 3D Dot Game Heroes BLES00875
+- Updated 3D Dot Game Heroes BLUS30490
+- Updated Resident Evil 5: Gold Edition BLES00816
+- Updated Resident Evil 5: Gold Edition BLUS30491
+- Updated Saints Row 2 BLES00373
+- Updated Saints Row 2 BLUS30201
+- Updated Saints Row IV BLES01889
+- Updated Saints Row IV BLUS31205
+- Updated Saints Row: The Third (The Full Package) BLUS31062
+- Updated Saints Row: The Third BLUS30666
+- Updated Sonic & All-Stars Racing Transformed BLES00750
+- Updated Sonic & All-Stars Racing Transformed BLUS30839
+- Updated The ICO & Shadow of the Colossus Collection BCES01097
+- Updated The ICO & Shadow of the Colossus Collection BCES01115
+- Updated The ICO & Shadow of the Colossus Collection BCUS98259
+- Updated The Walking Dead: Survival Instinct BLES01779
+- Updated The Walking Dead: Survival Instinct BLUS31065
+
+Version 1.65 (Sep 19, 2013) - 736
+- Added Diablo III BLUS31188
+- Added Diablo III BLES01921
+- Updated Warriors Orochi 3 BLES01588
+- Updated Warriors Orochi 3 (PSN) NPUB30708
+
+Version 1.64 (Sep 18, 2013) - 734
+- Added Majin and the Forsaken Kingdom BLUS30472
+- Added Majin and the Forsaken Kingdom BLES00919
+- Added TMNT: Turtles in Time Re-Shelled (PSN) NPUB30107
+- Added TMNT: Turtles in Time Re-Shelled (PSN) NPEB00149
+- Updated Dollar Dash (PSN) NPEB01058
+- Updated Dollar Dash (PSN) NPUB30938
+- Updated Kingdom Hearts HD 1.5 ReMIX BLES01897
+- Updated Kingdom Hearts HD 1.5 ReMIX BLJM60589
+- Updated Kingdom Hearts HD 1.5 ReMIX BLUS31212
+
+Version 1.63 (Sep 17, 2013) - 730
+- Added Dead Space 2 BLES01040
+- Added Ride to Hell: Retribution BLES01581
+- Updated Dead Space BLES00308
+- Updated Dead Space BLES00310
+- Updated Dead Space BLUS30177
+- Updated Ride to Hell: Retribution BLUS30324
+- Updated Tales of Xillia BLES01815
+- Updated Tales of Xillia BLUS31006
+
+Version 1.62 (Sep 16, 2013) - 728
+- Updated Dead Space 2 BLES01041
+- Updated Dead Space 2 BLUS30624
+- Updated Dead Space 2 BLUS30717
+- Updated Dead Space 3 (PSN) NPUB30906
+- Updated Dead Space 3 BLES01733
+- Updated Dead Space 3 BLUS31053
+- Updated Deadpool BLES01789
+- Updated Deadpool BLUS31146
+- Updated Devil May Cry HD Collection BLES01228
+- Updated Devil May Cry HD Collection BLUS30764
+- Updated Kingdom Hearts HD 1.5 ReMIX BLES01897
+- Updated Kingdom Hearts HD 1.5 ReMIX BLJM60589
+- Updated Kingdom Hearts HD 1.5 ReMIX BLUS31212
+- Updated Ratchet & Clank 2 (PSN) / The Ratchet & Clank Trilogy NPEA00386
+- Updated Ratchet & Clank 2: Going Commando (PSN) / Ratchet & Clank Collection NPUA80644
+- Updated Urban Trial Freestyle (PSN) NPEB01238
+
+Version 1.61 (Sep 14, 2013) - 728
+- Added BlazBlue: Calamity Trigger BLES00820
+- Added BlazBlue: Calamity Trigger BLJM60157
+- Added BlazBlue: Calamity Trigger BLUS30392
+- Added Sengoku Basara: Samurai Heroes MRTC00005
+- Updated Devil May Cry HD Collection BLES01228
+- Updated Devil May Cry HD Collection BLUS30764
+
+Version 1.60 (Sep 13, 2013) - 724
+- Added Kingdom Hearts HD 1.5 ReMIX BLES01897
+
+Version 1.59 (Sep 12, 2013) - 723
+- Added Dollar Dash (PSN) NPEB01058
+- Added Dollar Dash (PSN) NPUB30938
+- Added NeverDead BLES01303
+- Added NeverDead BLUS30654
+- Added Urban Trial Freestyle (PSN) NPEB01238
+- Updated Resident Evil: Operation Raccoon City BLUS30750
+- Updated Yakuza: Dead Souls BLES01399
+- Updated Yakuza: Dead Souls BLUS30826
+
+Version 1.58 (Sep 11, 2013) - 718
+- Added BioHazard 4 (PSN) NPJB00084
+- Added Go! Puzzle (PSN) NPEA00006
+- Added Go! Puzzle (PSN) NPUA80022
+- Added Puss in Boots BLES01240
+- Added Puss in Boots BLUS30731
+- Removed BloodRayne: Betrayal (PSN) NPEB00716
+- Removed BloodRayne: Betrayal (PSN) NPUB30377
+- Updated ICO BCJS30070
+- Updated Kingdom Hearts HD 1.5 ReMIX BLJM60589
+- Updated Kingdom Hearts HD 1.5 ReMIX BLUS31212
+- Updated The ICO & Shadow of the Colossus Collection BCES01097
+- Updated The ICO & Shadow of the Colossus Collection BCES01115
+- Updated The ICO & Shadow of the Colossus Collection BCUS98259
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 1.57 (Sep 09, 2013) - 715
+- Added Ben 10 Ultimate Alien: Cosmic Destruction BLES01110
+- Added Ben 10 Ultimate Alien: Cosmic Destruction BLUS30663
+- Added Binary Domain BLES01211
+- Added Binary Domain BLUS30729
+- Added BloodRayne: Betrayal (PSN) NPEB00716
+- Added BloodRayne: Betrayal (PSN) NPUB30377
+- Added Call of Juarez: Bound in Blood BLES00556
+- Added Call of Juarez: Bound in Blood BLUS30347
+- Added Condemned 2: Bloodshot BLES00219
+- Added Condemned 2: Bloodshot BLUS30115
+- Added Dark Sector BLES00222
+- Added Dark Sector BLUS30116
+- Added Destroy All Humans! Path of the Furon (PSN) NPUB90145
+- Added Destroy All Humans! Path of the Furon BLES00467
+- Added DiRT 2 BLES00673
+- Added DiRT 2 BLUS30313
+- Added DiRT BLES00095
+- Added DiRT BLUS30064
+- Added Ferrari Challenge Trofeo Pirelli BLES00166
+- Added Ferrari Challenge Trofeo Pirelli BLUS30162
+- Added Ferrari: The Race Experience (PSN) NPEB00185
+- Added Ferrari: The Race Experience (PSN) NPUB30382
+- Added GRID BLES00256
+- Added GRID BLUS30142
+- Added Genji: Days of the Blade BCES00002
+- Added Genji: Days of the Blade BCUS98131
+- Added Modern Combat: Domination (PSN) NPEB00290
+- Added Modern Combat: Domination (PSN) NPUB30268
+- Added Resistance: Fall of Man BCES00001
+- Added Resistance: Fall of Man BCUS98107
+- Added The Incredible Hulk BLES00289
+- Added The Incredible Hulk BLUS30152
+- Added XCOM: Enemy Unknown BLES01711
+- Added XCOM: Enemy Unknown BLUS30943
+- Updated 50 Cent: Blood On The Sand BLES00472
+- Updated 50 Cent: Blood On The Sand BLUS30256
+- Updated GoldenEye 007: Reloaded BLES01292
+- Updated GoldenEye 007: Reloaded BLUS30755
+- Updated Yakuza: Dead Souls BLES01399
+- Updated Yakuza: Dead Souls BLUS30826
+- Updated Zeno Clash II (PSN) NPUB30872
+
+Version 1.56 (Sep 09, 2013) - 681
+- Added Hunter's Trophy 2 - America (PSN) NPEB01309
+- Added Hunter's Trophy 2 - America (PSN) NPUB31191
+- Added Karaoke Revolution BLES00694
+- Added Karaoke Revolution BLUS30378
+- Added Karaoke Revolution Presents: American Idol Encore 2 BLUS30215
+- Added Karaoke Revolution Presents: American Idol Encore BLUS30112
+- Added Mars: War Logs (PSN) NPEB01301
+- Added Mars: War Logs (PSN) NPUB31150
+- Added TimeShift BLES00159
+- Added TimeShift BLUS30090
+- Added Virtua Fighter 5 BLES00029
+- Added Virtua Fighter 5 BLUS30020
+- Added Virtua Tennis 3 BLES00027
+- Added Virtua Tennis 3 BLUS30021
+- Updated Yakuza 4 BLES01081
+- Updated Yakuza 4 BLUS30643
+
+Version 1.55 (Sep 08, 2013) - 667
+- Added Captain America: Super Soldier BLES01167
+- Added Captain America: Super Soldier BLUS30642
+- Added Farming Simulator 2013 (PSN) NPJB00415
+- Added Farming Simulator 2013 BLES01796
+- Updated Bladestorm: The Hundred Years' War BLES00113
+- Updated Bladestorm: The Hundred Years' War BLUS30070
+- Updated Dynasty Warriors 7 BLES01149
+- Updated Dynasty Warriors 7 BLUS30690
+- Updated Dynasty Warriors 7: Xtreme Legends BLES01496
+- Updated Dynasty Warriors 7: Xtreme Legends BLUS30873
+
+Version 1.54 (Sep 07, 2013) - 663
+- Added Spider-Man: Shattered Dimensions BLES00946
+- Added Spider-Man: Shattered Dimensions BLUS30499
+- Updated BlazBlue: Continuum Shift Extend BLES01487
+- Updated BlazBlue: Continuum Shift Extend BLUS30869
+- Updated Bayonetta BLES00599
+- Updated Bayonetta BLUS30367
+- Updated Sengoku Basara: Samurai Heroes BLJM60218
+- Updated Sengoku Basara: Samurai Heroes BLUS30492
+- Updated Warriors: Legends of Troy BLES01183
+- Updated Warriors: Legends of Troy BLUS30502
+
+Version 1.53 (Sep 06, 2013) - 661
+- Added After Burner Climax (PSN) NPEB00175
+- Added After Burner Climax (PSN) NPUB30151
+- Added Altered Beast (PSN) NPEB00526
+- Added Altered Beast (PSN) NPUB30459
+- Added Cabela's North American Adventures BLUS30564
+- Added Cabela's Survival: Shadows of Katmai BLES01412
+- Added Cabela's Survival: Shadows of Katmai BLUS30819
+- Added God of War Collection BCES00791
+- Added God of War Collection BCUS98229
+- Added JASF: Jane's Advanced Strike Fighters BLUS30333
+- Added Medal of Honor Frontline (PSN) NPEB00308
+- Added Medal of Honor Frontline (PSN) NPUB30288
+- Added Monster Madness: Grave Danger BLES00255
+- Added Monster Madness: Grave Danger BLUS30140
+- Added Monsters vs. Aliens BLES00490
+- Added Monsters vs. Aliens BLUS30273
+- Added NBA 2K13 BLES01713
+- Added NBA 2K13 BLUS31028
+- Added Persona 4 Arena BLES01738
+- Added Persona 4 Arena BLJM60442
+- Added SEGA Mega Drive Ultimate Collection BLES00475
+- Added Section 8: Prejudice (PSN) NPUB30381
+- Added Sonic's Ultimate Genesis Collection BLUS30259
+- Added Spec Ops: The Line BLES01157
+- Added Spec Ops: The Line BLUS30531
+- Added X-Men Origins: Wolverine BLES00150
+- Added X-Men Origins: Wolverine BLUS30268
+- Updated Enslaved: Odyssey To The West BLES00989
+- Updated Enslaved: Odyssey To The West BLUS30558
+ 
+Version 1.52 (Sep 06, 2013) - 634
+- Added Absolute Supercars (PSN) NPUB30275
+- Added Absolute Supercars BLES01500
+- Added Dark Void BLES00723
+- Added Dark Void BLUS30323
+- Added Dead Space Ignition (PSN) NPEB00338
+- Added Dead Space Ignition (PSN) NPUB30269
+- Added Happy Feet Two: The Videogame BLES01425
+- Added Happy Feet Two: The Videogame BLUS30846
+- Added Hitman: Absolution BLES01403
+- Added Hitman: Absolution BLUS30835
+- Added I Am Alive (PSN) NPEB00476
+- Added I Am Alive (PSN) NPUB30383
+- Added Jet Set Radio (PSN) NPEB00924
+- Added Jet Set Radio (PSN) NPUB30829
+- Added Leisure Suit Larry: Box Office Bust BLES00553
+- Added Leisure Suit Larry: Box Office Bust BLUS30331
+- Added Lost: Via Domus BLES00221
+- Added Lost: Via Domus BLUS30120
+- Added Men In Black: Alien Crisis BLES01549
+- Added Men In Black: Alien Crisis BLUS30922
+- Added Mirror's Edge BLES00322
+- Added Mirror's Edge BLUS30179
+- Added Naughty Bear: Panic in Paradise (PSN) NPUB30828
+- Added Phineas and Ferb: Across the 2nd Dimension BLES01349
+- Added Phineas and Ferb: Across the 2nd Dimension BLUS30726
+- Added Pirates of the Caribbean: At World's End BLES00066
+- Added Pirates of the Caribbean: At World's End BLUS30029
+- Added Realms of Ancient War (PSN) NPEB00940
+- Added Realms of Ancient War (PSN) NPUB30793
+- Added Sega Rally Revo BLES00107
+- Added Sega Rally Revo BLUS30068
+- Added Sleeping Dogs BLES01661
+- Added Sleeping Dogs BLJM60501
+- Added Sleeping Dogs BLUS30927
+- Added The Bureau: XCOM Declassified BLES01322
+- Added The Bureau: XCOM Declassified BLUS30780
+- Added Unreal Tournament III BLES00200
+- Added Unreal Tournament III BLUS30086
+- Added WET BLES00707
+- Added WET BLUS30403
+- Updated Persona 4 Arena BLUS30985
+
+Version 1.51 (Sep 06, 2013) - 594
+- Added Deadpool BLES01789
+- Added Deadpool BLUS31146
+- Added Frogger Returns (PSN) NPEB00162
+- Added Frogger Returns (PSN) NPUB30118
+- Added Guardians of Middle-Earth (PSN) NPEB01085
+- Added Guardians of Middle-Earth (PSN) NPUB30840
+- Added Hasbro Family Game Night 3 BLES00973
+- Added Hasbro Family Game Night 3 BLUS30578
+- Added Monkey Island: Special Edition Collection (PSN) NPEB00191
+- Added MySims SkyHeroes BLES01088
+- Added MySims SkyHeroes BLUS30520
+- Added Prince of Persia BLES00389
+- Added Prince of Persia BLUS30214
+- Added Quantum Conundrum (PSN) NPEB00895
+- Added Quantum Conundrum (PSN) NPUB30601
+- Added Rapala Pro Bass Fishing BLES00957
+- Added Rapala Pro Bass Fishing BLUS30570
+- Added Rio BLES01139
+- Added Rio BLUS30614
+- Added Sonic & All-Stars Racing Transformed BLES00750
+- Added Sonic & All-Stars Racing Transformed BLUS30839
+- Added Star Trek BLES01792
+- Added Star Trek BLUS30935
+- Added Terminator: Salvation BLES00537
+- Added Terminator: Salvation BLUS30318
+- Added The Simpsons: Arcade Game (PSN) NPEB00727
+- Added The Simpsons: Arcade Game (PSN) NPUB30563
+- Added Transformers: Fall of Cybertron BLES01153
+- Added Transformers: Fall of Cybertron BLUS30681
+- Added Transformers: War for Cybertron BLES00833
+- Added Transformers: War for Cybertron BLUS30357
+- Added Zeno Clash II (PSN) NPUB30872
+- Updated Dead To Rights: Retribution BLES00824
+- Updated Dead To Rights: Retribution BLUS30278
+- Updated Disney Universe BLES01354
+- Updated Disney Universe BLUS30773
+- Updated Hunted: The Demon's Forge BLES01309
+- Updated Hunted: The Demon's Forge BLUS30406
+- Updated Sengoku Basara 3 Utage BLJM60389
+- Updated Sengoku Basara: Samurai Heroes BLJM60218
+- Updated Sengoku Basara: Samurai Heroes BLUS30492
+
+Version 1.50 (Sep 05, 2013) - 562
+- Added Added Mobile Suit Gundam Battlefield Record U.C. 0081 BLJS10050
+- Updated ICO BCJS30070
+- Updated SSX BLAS50445
+- Updated SSX BLES01437
+- Updated SSX BLUS30849
+- Updated The ICO & Shadow of the Colossus Collection BCES01097
+- Updated The ICO & Shadow of the Colossus Collection BCES01115
+- Updated The ICO & Shadow of the Colossus Collection BCUS98259
+
+Version 1.49 (Sep 04, 2013) - 561
+- Added Dishonored BLES01675
+- Added Dishonored BLUS30501
+- Added ICO BCJS30070
+- Added The ICO & Shadow of the Colossus Collection BCES01097
+- Added The ICO & Shadow of the Colossus Collection BCES01115
+- Added The ICO & Shadow of the Colossus Collection BCUS98259
+- Removed Dynasty Warriors 7: Empires BLES01796 (ID Error)
+- Updated Ninja Gaiden: Sigma 2 BLES00736
+- Updated Ninja Gaiden: Sigma 2 BLJM60168
+- Updated Ninja Gaiden: Sigma 2 BLUS30380
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 1.48 (Sep 03, 2013) - 556
+- Updated Atelier Meruru: The Apprentice Of Arland BLES01593
+- Updated Atelier Meruru: The Apprentice Of Arland BLUS30941
+- Updated BlazBlue: Continuum Shift BLES01119
+- Updated BlazBlue: Continuum Shift BLJM60237
+- Updated BlazBlue: Continuum Shift BLUS30576
+- Updated BlazBlue: Continuum Shift Extend BLES01487
+- Updated BlazBlue: Continuum Shift Extend BLUS30869
+- Updated Sengoku Basara: Samurai Heroes BLJM60218
+- Updated Sengoku Basara: Samurai Heroes BLUS30492
+- Updated The Darkness II BLES01388
+- Updated The Darkness II BLJS10137
+- Updated The Darkness II BLUS30743
+- Updated Zone of the Enders HD Collection BLES01554
+- Updated Zone of the Enders HD Collection BLUS30937
+
+Version 1.47 (Sep 02, 2013) - 556
+- Updated BlazBlue: Continuum Shift BLES01119
+- Updated BlazBlue: Continuum Shift BLJM60237
+- Updated BlazBlue: Continuum Shift BLUS30576
+- Updated BlazBlue: Continuum Shift Extend BLES01487
+- Updated BlazBlue: Continuum Shift Extend BLUS30869
+- Updated Mass Effect 2 BLES01133
+- Updated Mass Effect 2 BLJM60332
+- Updated Mass Effect 2 BLUS30650
+
+Version 1.46 (Sep 01, 2013) - 556
+- Added Blades of Time BLES01395
+- Added Blades of Time BLUS30833
+- Added The Sly Collection BCAS20149
+- Added The Sly Collection BCES00968
+- Added The Sly Collection BCUS98246
+- Updated Alien Breed 2: Assault (PSN) NPEB00345
+- Updated Alien Breed 2: Assault (PSN) NPUB30335
+- Updated Alien Breed 3: Descent (PSN) NPEB00346
+- Updated Alien Breed 3: Descent (PSN) NPUB30336
+- Updated Alien Breed: Impact (PSN) NPEB00260
+- Updated Alien Breed: Impact (PSN) NPUB30141
+- Updated Devil May Cry HD Collection BLES01228
+- Updated Devil May Cry HD Collection BLUS30764
+- Updated Super Street Fighter IV BLES00770
+- Updated Super Street Fighter IV BLUS30453
+
+Version 1.45 (Aug 31, 2013) - 551
+- Added Hatsune Miku: Project Diva F BLUS31319
+- Added Kingdom Hearts HD 1.5 ReMIX BLUS31212
+- Added Lost Planet 3 BLJM60490
+- Added Lost Planet 3 BLUS31020
+- Added Okami HD (PSN) NPEB00900
+- Added Okami HD (PSN) NPUB30720
+- Added One Piece: Pirate Warriors 2 (PSN) NPEB01795
+- Updated Aliens: Colonial Marines BLES01455
+- Updated Aliens: Colonial Marines BLUS30862
+- Updated Borderlands 2 BLES01684
+- Updated Borderlands 2 BLUS30982
+- Updated Hyperdimension Neptunia mk2 BLES01507
+- Updated Hyperdimension Neptunia mk2 BLUS30901
+- Updated Kingdom Hearts HD 1.5 ReMIX BLJM60589
+- Updated Singularity BLES00560
+- Updated Singularity BLUS30296
+- Updated Spider-Man: Edge Of Time BLES01291
+- Updated Spider-Man: Edge Of Time BLUS30760
+
+Version 1.44 (Aug 30, 2013) - 544
+- Added Warriors: Legends of Troy BLES01183
+- Added Warriors: Legends of Troy BLUS30502
+- Updated Aliens: Colonial Marines BLES01455
+- Updated Aliens: Colonial Marines BLUS30862
+- Updated Silent Hill: HD Collection BLES01504
+- Updated Silent Hill: HD Collection BLUS30810
+
+Version 1.43 (Aug 29, 2013) - 542
+- Added JoJo's Bizarre Adventure All-Star Battle (PSN) NPJB00331
+- Added Need for Speed: Hot Pursuit BLES00949
+- Added Need for Speed: Hot Pursuit BLUS30566
+- Updated Afro Samurai BLES00516
+- Updated Afro Samurai BLUS30264
+- Updated Mass Effect 3 BLES01462
+- Updated Mass Effect 3 BLUS30853
+- Updated Saints Row IV BLES01889
+- Updated Saints Row IV BLUS31205
+- Updated Sengoku Basara 3 Utage BLJM60389
+- Updated Sengoku Basara: Samurai Heroes BLJM60218
+- Updated Sengoku Basara: Samurai Heroes BLUS30492
+
+Version 1.42 (Aug 27, 2013) - 539
+- Added de Blob 2 BLUS30559
+- Added de Blob 2 BLES01160
+- Added Saints Row IV BLES01889
+- Added Sengoku Basara 3 Utage BLJM60389
+- Updated Saints Row IV BLUS31205
+- Updated Hyperdimension Neptunia Victory BLES01788
+- Updated Hyperdimension Neptunia Victory BLJM60491
+- Updated Hyperdimension Neptunia Victory BLUS31150
+- Updated Tales of Xillia BLUS31006
+- Updated Tales of Xillia BLES01815
+
+Version 1.41 (Aug 26, 2013) - 535
+- Added Dead Rising 2: Off The Record BLJM60341
+- Added Dungeons & Dragons: Chronicles of Mystara BLJM61055
+- Added Dungeons & Dragons: Chronicles of Mystara (PSN) NPUB31127
+- Added Resident Evil: Operation Raccoon City BLUS30750
+- Added Killer Is Dead BLUS31186
+- Updated Cross Edge BLES00650
+- Updated Cross Edge BLUS30348
+- Updated Dead Rising 2: Off The Record BLES01302
+- Updated Dead Rising 2: Off The Record BLUS30763
+
+Version 1.40 (Aug 25, 2013) - 530
+- Added Dragon's Crown (PSN) NPUB31235
+- Updated Dead Rising 2: Off The Record BLES01302
+- Updated Dead Rising 2: Off The Record BLUS30763
+
+Version 1.39 (Aug 24, 2013) - 529
+- Updated Dead Rising 2 BLUS30439
+- Updated Dead Rising 2 BLES00948
+- Updated Hyperdimension Neptunia Victory BLES01788
+- Updated Hyperdimension Neptunia Victory BLJM60491
+- Updated Hyperdimension Neptunia Victory BLUS31150
+
+Version 1.38 (Aug 22, 2013) - 529
+- Updated Darksiders II BLUS30829
+- Updated Darksiders II BLES01597
+- Updated Dragon's Crown BLUS30767
+- Updated Dragon's Crown BLJM61041
+- Updated Tales of Xillia BLUS31006
+- Updated Tales of Xillia BLES01815
+
+Version 1.37 (Aug 21, 2013) - 529
+- Added Dynasty Warriors 6 BLUS30110
+- Added Dynasty Warriors 6 BLES00215
+- Added DuckTales Remastered (PSN) NPUB31126
+- Added Ratchet & Clank Future: A Crack in Time BCUS98124
+- Updated Dragon's Crown BLUS30767
+- Updated Dragon's Crown BLJM61041
+- Updated Metal Gear Solid 4: Guns Of The Patriots BLUS30109
+- Updated Metal Gear Solid 4: Guns Of The Patriots BLES00246
+
+Version 1.36 (Aug 20, 2013) - 525
+- Updated Disgaea 4 BLES01225
+- Updated Disgaea 4 BLUS30727
+- Updated Tales of Xillia BLUS31006
+- Updated Tales of Xillia BLES01815
+
+Version 1.35 (Aug 19, 2013) - 525
+- Added Saints Row IV BLUS31205
+- Updated Atelier Ayesha: The Alchemist of Dusk BLES01793
+- Updated Atelier Ayesha: The Alchemist of Dusk BLUS31152
+- Updated Dead Rising 2 BLUS30439
+- Updated Dead Rising 2 BLES00948
+- Updated Dead Rising 2 BLJM60221
+- Updated Dragon's Crown BLUS30767
+- Updated Dragon's Crown BLJM61041
+
+Version 1.34 (Aug 18, 2013) - 524
+- Added Dead Rising 2 BLJM60221
+- Added The Idolm@ster 2 BLJS10083
+- Updated Dead Rising 2 BLUS30439
+- Updated Dead Rising 2 BLES00948
+- Updated Dragon's Crown BLUS30767
+- Updated Dragon's Crown BLJM61041
+- Updated The Witch and The Hundred Knights BLJS10160
+- Updated Sengoku Basara HD Collection BLJM60488
+
+Version 1.33 (Aug 17, 2013) - 522
+- Added The Amazing Spider-Man BLUS30828
+- Added The Amazing Spider-Man BLES01547
+- Updated Dragon's Crown BLUS30767
+- Updated Dragon's Crown BLJM61041
+- Updated Ninja Gaiden 3: Razor's Edge (PSN) NPJB00361
+- Updated Ninja Gaiden 3: Razor's Edge (PSN) NPUB31184
+- Updated Ninja Gaiden 3: Razor's Edge BLJM61010
+- Updated Ninja Gaiden 3: Razor's Edge BLUS31175
+
+Version 1.32 (Aug 16, 2013) - 520
+- Added Sengoku Basara HD Collection BLJM60488
+
+Version 1.31 (Aug 15, 2013) - 519
+- Updated Disgaea 4 BLES01225
+- Updated Disgaea 4 BLUS30727
+- Updated Ninja Gaiden: Sigma 2 BLES00736
+- Updated Ninja Gaiden: Sigma 2 BLUS30380
+- Updated Ninja Gaiden: Sigma 2 BLJM60168
+- Updated Tales of Xillia BLUS31006
+- Updated Tales of Xillia BLES01815
+
+Version 1.30 (Aug 13, 2013) - 519
+- Updated Disgaea 4 BLES01225
+- Updated Disgaea 4 BLUS30727
+
+Version 1.29 (Aug 12, 2013) - 519
+- Added Dragon's Crown BLUS30767
+- Updated Disgaea 4 BLES01225
+- Updated Disgaea 4 BLUS30727
+- Updated Star Ocean: The Last Hope International MRTC00001
+
+Version 1.28 (Aug 11, 2013) - 518
+- Added Tales of Xillia BLUS31006
+- Updated Disgaea 4 BLES01225
+- Updated Disgaea 4 BLUS30727
+
+Version 1.27 (Aug 10, 2013) - 517
+- Updated Atelier Ayesha: The Alchemist of Dusk BLES01793
+- Updated Atelier Ayesha: The Alchemist of Dusk BLUS31152
+- Updated Mugen Souls BLUS31007
+- Updated Mugen Souls BLES01723
+- Updated Record Of Agarest: War 2 BLES01643
+- Updated Record Of Agarest: War 2 BLUS30881
+
+Version 1.26 (Aug 09, 2013) - 517
+- Added Dynasty Warriors 8 BLUS31185
+- Added Dynasty Warriors 8 BLES01865
+- Added Dynasty Warriors 8 BLJM60586
+- Added Dynasty Warriors 8 (PSN) NPUB31234
+
+Version 1.25 (Aug 08, 2013) - 513
+- Added The Darkness II BLJS10137
+- Updated The Darkness II BLES01388
+- Updated The Darkness II BLUS30743
+
+Version 1.24 (Aug 07, 2013) - 512
+- Added Tales of Xillia BLES01815
+
+Version 1.23 (Aug 03, 2013) - 511
+- Added Killer Is Dead BLJS10215
+
+Version 1.22 (Jul 31, 2013) - 510
+- Added Dead Nation: Road of Devastation (PSN) NPUA80358
+
+Version 1.22 (Jul 26, 2013) - 509
+- Added Mini Ninjas BLUS30284
+- Updated Mini Ninjas BLES00512
+
+Version 1.21 (Jul 26, 2013) - 508
+- Added Mini Ninjas BLES00512
+- Updated Dragon's Crown BLJM61041
+
+Version 1.20 (Jul 25, 2013) - 507
+- Added Dragon's Crown BLJM61041
+- Added The Witch and The Hundred Knights BLJS10160
+
+Version 1.19 (Jul 21, 2013) - 505
+- Added Tales of Xillia BLJS10120
+- Updated Gundam Breaker BLJS10197
+
+Version 1.18 (Jul 20, 2013) - 504
+- Updated BlazBlue: Continuum Shift BLES01119
+- Updated BlazBlue: Continuum Shift BLUS30576
+
+Version 1.17 (Jul 13, 2013) - 504
+- Added Bentley's Hackpack (PSN) NPEA00427
+- Added Bentley's Hackpack (PSN) NPUA80882
+
+Version 1.16 (Jul 09, 2013) - 502
+- Added Borderlands BLJM60279
+- Updated Borderlands BLUS30386
+- Updated Borderlands BLES00697
+- Updated Kamen Rider: Battride War BLJS10220
+
+Version 1.15 (Jul 08, 2013) - 501
+- Updated Final Fantasy XIII MRTC00003
+
+Version 1.14 (Jul 07, 2013) - 501
+- Added BioShock Infinite BLJS10207
+- Added Mass Effect 3 BLES01462
+- Added Mass Effect 3 BLUS30853
+- Added NBA 2K12 BLUS30830
+- Added NBA 2K12 BLES01418
+- Updaded BioShock Infinite BLUS30629
+- Updaded BioShock Infinite BLES01705
+- Updated Chikyuu Boueigun 4 BLJS10209
+- Updated White Knight Chronicles II BCES01085
+- Updated White Knight Chronicles II BCES01156
+- Updated White Knight Chronicles II BLUS30784
+- Updated White Knight Chronicles II BCES01085
+
+Version 1.13 (Jul 05, 2013) - 496
+- Added Shoot Many Robots (PSN) NPUB30600
+- Added Supersonic Acrobatic Rocket-Powered Battle-Cars (PSN) NPUB30035
+- Updated White Knight Chronicles II BLUS30784
+
+Version 1.12 (Jul 04, 2013) - 494
+- Added BlazBlue: Continuum Shift BLJM60237
+- Added Chikyuu Boueigun 4 BLJS10209
+- Added Supersonic Acrobatic Rocket-Powered Battle-Cars (PSN) NPEB00062
+- Updated BlazBlue: Continuum Shift BLES01119
+- Updated BlazBlue: Continuum Shift BLUS30576
+
+Version 1.11 (Jul 03, 2013) - 491
+- Added The Elder Scrolls V: Skyrim BLJM60413
+- Added The Elder Scrolls V: Skyrim BLES01330
+- Updated The Elder Scrolls V: Skyrim BLUS30778
+- Updated The Elder Scrolls V: Skyrim BLES01329
+- Updated Shoot Many Robots (PSN) NPEB00767
+
+Version 1.10 (Jul 02, 2013) - 489
+- Added Mass Effect 2 BLJM60332
+- Added Mass Effect 2 BLUS30650
+- Added Mass Effect 2 BLES01133
+- Added Shoot Many Robots (PSN) NPEB00767
+- Removed Mass Effect 2 BLUS3065 (ID Error)
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 1.09 (Jul 01, 2013) - 486
+- Added Armored Core V BLUS30516
+- Added Armored Core V BLES01440
+- Added Armored Core V BLJM60378
+- Added Mass Effect 2 BLUS30650
+- Updated Hatsune Miku: Project Diva F BLJM60527
+
+Version 1.08 (Jun 29, 2013) - 482
+- Added The Cursed Crusade BLUS30641
+- Added The Cursed Crusade (PSN) NPUB30683
+- Added The Cursed Crusade BLES01299
+- Added The Cursed Crusade BLJM60395
+
+Version 1.07 (Jun 28, 2013) - 478
+- Added Tokitowa BLES01848
+- Added Ride to Hell: Retribution BLUS30324
+- Updated Tokitowa BLJS10181
+- Updated Fight Night Champion BLES01039
+- Updated Fight Night Champion BLUS30608
+- Updated Fight Night Champion (PSN) NPEB00730
+- Updated Fight Night Champion BLAS50313
+- Updated Fight Night Champion BLJM60267
+
+Version 1.06 (Jun 27, 2013) - 476
+- Added Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi (PSN) NPJB00403
+- Added Gundam Breaker BLJS10197
+- Updated Fight Night Champion BLES01039
+- Updated Fight Night Champion BLUS30608
+- Updated Fight Night Champion (PSN) NPEB00730
+- Updated Fight Night Champion BLAS50313
+- Updated Fight Night Champion BLJM60267
+
+Version 1.05 (Jun 26, 2013) - 474
+- Added Hatsune Miku: Project Diva F BLJM60527
+- Added World Soccer: Winning Eleven 2013 BLJM60522
+
+Version 1.04 (Jun 24, 2013) - 472
+- Added Red Dead Redemption BLJM60265
+- Removed The Last of Us BCES01584
+- Removed The Last of Us BCJS37010
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 1.03 (Jun 23, 2013) - 473
+- Added Auditorium HD (PSN) NPEB00514
+- Added Auditorium HD (PSN) NPUB30245
+- Added Hitman Sniper Challenge (PSN) NPEB00867
+- Added NBA 2K11 BLES01008
+- Added NBA 2K11 BLUS30574
+- Added NBA 2K11 BLUS30689
+- Added Red Dead Redemption BLUS30418
+- Updated Resident Evil Code: Veronica X HD (PSN) NPEB00553
+- Updated Resident Evil Code: Veronica X HD (PSN) NPUB30467
+
+Version 1.02 (Jun 22, 2013) - 466
+- Added The Last of Us BCUS98174
+- Added The Last of Us BCES01584
+- Added The Last of Us BCES01585
+- Added The Last of Us BCJS37010
+
+Version 1.01 (Jun 21, 2013) - 462
+- Added Fight Night Champion BLES01039
+- Added Fight Night Champion BLUS30608
+- Added Fight Night Champion (PSN) NPEB00730
+- Added Fight Night Champion BLAS50313
+- Added Fight Night Champion BLJM60267
+
+Version 1.00 (Jun 16, 2013) - 457
+- Added AMY (PSN) NPUB30613
+- Added AMY (PSN) NPEB00768
+- Added Ratchet: Deadlocked (PSN) NPUA80646
+- Added Ratchet: Deadlocked (PSN) NPEA00388
+- Updated Scott Pilgrim vs. The World (PSN) NPEB00258
+- Updated Scott Pilgrim vs. The World (PSN) NPUB30162
+
+Version 0.99 (Jun 15, 2013) - 453
+- Added Terraria (PSN) NPUB30943
+- Added Terraria (PSN) NPJB00383
+- Updated Resident Evil: Revelations BLES01773
+- Updated Resident Evil: Revelations BLJM60518
+- Updated Resident Evil: Revelations BLUS31051
+
+Version 0.98 (Jun 11, 2013) - 451
+- Added Far Cry 3: Blood Dragon (PSN) NPEB01322
+- Updated Far Cry 3: Blood Dragon (PSN) NPUB31142
+
+Version 0.97 (Jun 10, 2013) - 450
+- Added Ninja Gaiden: Sigma 2 BLJM60168
+
+Version 0.96 (Jun 07, 2013) - 449
+- Added One Piece: Pirate Warriors 2 (PSN) NPJB00328
+- Updated One Piece: Pirate Warriors 2 BLJM60572
+
+Version 0.95 (Jun 05, 2013) - 448
+- Added Darksiders BLES00705
+- Added Darksiders BLUS30320
+- Added Remember Me BLUS31012
+- Updated Deadly Premonition: The Director's Cut BLES01776
+- Updated Deadly Premonition: The Director's Cut BLUS31064
+- Updated Ninja Gaiden: Sigma 2 BLES00736
+- Updated Ninja Gaiden: Sigma 2 BLUS30380
+- Updated Ultimate Marvel Vs Capcom 3 BLES01355
+- Updated Ultimate Marvel Vs Capcom 3 BLUS30787
+
+Version 0.94 (Jun 04, 2013) - 445
+- Updated Deadly Premonition: The Director's Cut BLES01776
+- Updated Deadly Premonition: The Director's Cut BLUS31064
+- Updated Marvel Vs. Capcom 3: Fate Of Two Worlds BLES01026
+- Updated Marvel Vs. Capcom 3: Fate Of Two Worlds BLUS30410
+- Updated Resident Evil: Revelations BLES01773
+- Updated Resident Evil: Revelations BLJM60518
+- Updated Resident Evil: Revelations BLUS31051
+
+Version 0.93 (Jun 03, 2013) - 445
+- Updated White Knight Chronicles II BCES01085
+- Updated White Knight Chronicles II BCES01156
+
+Version 0.92 (Jun 02, 2013) - 445
+- Added Remember Me BLES01701
+- Added Resident Evil Code: Veronica X HD (PSN) NPEB00553
+- Added Resident Evil Code: Veronica X HD (PSN) NPUB30467
+- Added Sonic Unleashed BLES00425
+- Added Sonic Unleashed BLUS30244
+
+Version 0.91 (May 31, 2013) - 440
+- Added Resident Evil: Revelations BLJM60518
+- Updated White Knight Chronicles II BCES01085
+- Updated White Knight Chronicles II BCES01156
+
+Version 0.90 (May 30, 2013) - 439
+- Added Deadly Premonition: The Director's Cut BLES01776
+- Added Deadly Premonition: The Director's Cut BLUS31064
+- Added Hitman: Blood Money (PSN) NPUB30781
+
+Version 0.89 (May 29, 2013) - 436
+- Added God Of War: Ascension BCAS25016
+- Added Yakuza: Dead Souls BLES01399
+- Added Yakuza: Dead Souls BLUS30826
+
+Version 0.88 (May 27, 2013) - 433
+- Updated Resident Evil: Revelations BLES01773
+- Updated Resident Evil: Revelations BLUS31051
+
+Version 0.87 (May 25, 2013) - 433
+- Added Bayonetta BLES00599
+- Added Bayonetta BLUS30367
+- Updated White Knight Chronicles BCES00225
+- Updated White Knight Chronicles BCUS98146
+
+Version 0.86 (May 24, 2013) - 431
+- Added Kamen Rider: Battride War BLJS10220
+- Added Resident Evil: Revelations BLUS31051
+- Updated Resident Evil: Revelations BLES01773
+- Removed Resident Evil: Revelations BLUS310510 (ID Error)
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 0.85 (May 23, 2013) - 430
+- Added Resident Evil: Revelations BLUS31051
+- Added Rainbow Moon (PSN) NPEB00486
+- Updated Resident Evil: Revelations BLES01773
+
+Version 0.84 (May 22, 2013) - 428
+- Added Resident Evil: Revelations BLES01773
+- Jetpack Joyride (PSN) NPEB01240
+- Jetpack Joyride (PSN) NPUB31097
+
+Version 0.83 (May 14, 2013) - 427
+- Added Disney Epic Mickey 2: The Power of Two BLES01627
+- Added Disney Epic Mickey 2: The Power of Two BLUS30962
+- Updated Dynasty Warriors: Strikeforce BLUS30471
+- Updated Dynasty Warriors: Strikeforce BLES00825
+
+Version 0.82 (May 13, 2013) - 425
+- Added Alien Breed: Impact (PSN) NPEB00260
+- Added Alien Breed 2: Assault (PSN) NPEB00345
+- Added Alien Breed 3: Descent (PSN) NPEB00346
+- Added Hell Yeah! Wrath of the Dead Rabbit (PSN) NPEB00831
+- Added Hell Yeah! Wrath of the Dead Rabbit (PSN) NPUB30750
+- Updated Grand Theft Auto IV / Grand Theft Auto: Episodes From Liberty City BLUS30127
+- Updated Nier BLES00826
+- Updated Nier BLUS30481
+
+Version 0.81 (May 12, 2013) - 420
+- Added Alien Breed: Impact (PSN) NPUB30141
+- Updated Resident Evil 5: Gold Edition BLES00816
+- Updated Resident Evil 5: Gold Edition BLUS30491
+- Updated Resident Evil 5 BLES00485
+- Updated Resident Evil 5 BLUS30270
+- Updated Resident Evil 6 BLES01465
+- Updated Resident Evil 6 BLUS30855
+
+Version 0.80 (May 11, 2013) - 419
+- Added Alien Breed 2: Assault (PSN) NPUB30335
+- Added Alien Breed 3: Descent (PSN) NPUB30336
+
+Version 0.79 (May 09, 2013) - 417
+- Added Winning Post 7 2012 BLJM60454
+- Updated Disgaea 4 BLES01225
+- Updated Disgaea 4 BLUS30727
+- Updated Tomb Raider BLES01780
+- Updated Tomb Raider BLUS31036
+
+Version 0.78 (May 07, 2013) - 416
+- Added BioShock Infinite BLES01705
+- Added BioShock Infinite BLUS30629
+- Updated Resident Evil 4 HD (PSN) NPEB00342
+- Updated Resident Evil 4 HD (PSN) NPUB30312
+- Updated Street Fighter X Tekken BLES01252
+- Updated Street Fighter X Tekken BLUS30722
+
+Version 0.77 (May 06, 2013) - 414
+- Updated Ninja Gaiden: Sigma 2 BLES00736
+- Updated Ninja Gaiden: Sigma 2 BLUS30380
+
+Version 0.76 (May 04, 2013) - 414
+- Added Far Cry 3 BLES01138
+- Updated Resident Evil 4 HD (PSN) NPEB00342
+- Updated Resident Evil 4 HD (PSN) NPUB30312
+
+Version 0.75 (May 03, 2013) - 413
+- Added Far Cry 3: Blood Dragon (PSN) NPUB31142
+- Updated Far Cry 3 BLUS30687
+
+Version 0.74 (Apr 30, 2013) - 412
+- Added Dynasty Warriors: Gundam 2 BLES00528
+- Updated Dai-2-Ji Super Robot Taisen OG BLJS10133
+- Updated Super Street Fighter IV BLUS30453
+- Updated Super Street Fighter IV BLES00770
+
+Version 0.73 (Apr 27, 2013) - 411
+- Added Disgaea D2: A Brighter Darkness (PSN) NPJB00300
+- Added Scott Pilgrim vs. The World (PSN) NPEB00258
+- Updated Star Ocean: The Last Hope International MRTC00001
+- Updated Rainbow Moon (PSN) NPUB30434
+- Updated White Knight Chronicles II BCES01085
+- Updated White Knight Chronicles II BCES01156
+
+Version 0.72 (Apr 25, 2013) - 409
+- Added Attouteki Yuugi: Mugen Souls Z BLJM61028
+- Added Hard Corps: Uprising (PSN) NPUB30096
+- Added Kidou Senshi Gundam UC BLJS10154
+- Updated God Of War: Ascension BCES01741
+- Updated God Of War: Ascension BCUS98232
+
+Version 0.71 (Apr 24, 2013) - 406
+- Added Deus Ex: Human Revolution BLES01150
+- Added Deus Ex: Human Revolution BLUS30476
+- Added Family Guy: Back To The Multiverse BLES01625
+- Added Family Guy: Back To The Multiverse BLUS30824
+- Added Tokitowa BLJS10181
+- Added Under Defeat HD BLJM60448
+- Updated Deus Ex: Human Revolution BLJM60353
+- Updated White Knight Chronicles BCES00225
+- Updated White Knight Chronicles BCUS98146
+
+Version 0.70 (Apr 23, 2013) - 400
+- Added Saints Row: The Third (The Full Package) BLUS31062
+- Removed Brother's in Arms: Hell's Highway BLUS30165 [0 Cheats]
+- Removed Clash Of The Titans: The Videogame BLUS30505 [0 Cheats]
+- Removed Dishonored BLUS30501 [0 Cheats]
+- Removed Dragon's Dogma BLUS30720 [0 Cheats]
+- Removed Fallout 3 BLUS30185 [0 Cheats]
+- Removed Fallout: New Vegas BLUS30500 [0 Cheats]
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 0.69 (Apr 22, 2013) - 405
+- Added Scott Pilgrim vs. The World (PSN) NPUB30162
+
+Version 0.68 (Apr 22, 2013) - 404
+- Added Tales Of Graces f BLES01617
+- Added The House Of The Dead: Overkill - Extended Cut BLES01326
+- Added Thor: God Of Thunder BLES01069
+- Added Trinity Universe BLES00971
+- Added Turning Point: Fall Of Liberty BLES00196
+- Added Twisted Metal BCES01400
+- Added Ultimate Marvel Vs Capcom 3 BLES01355
+- Added Uncharted 2: Among Thieves BCES00509
+- Added Uncharted 3: Drake's Deception BCES01176
+- Added Under Defeat HD: Deluxe Edition BLES01752
+- Added Valkyria Chronicles BLES00372
+- Added Warriors Orochi 3 BLES01588
+- Added Way Of The Samurai 3 BLES00712
+- Added Way Of The Samurai 4 BLES01682
+- Added White Knight Chronicles BCES00225
+- Added White Knight Chronicles II BCES01156
+- Added Yakuza 4 BLES01081
+- Added Zone of the Enders HD Collection BLES01554
+
+Version 0.67 (Apr 21, 2013) - 386
+- Added Silent Hill: HD Collection BLES01504
+- Added Silent Hill: Homecoming BLES00307
+- Added Singularity BLES00560
+- Added Sniper Elite V2 BLES01290
+- Added Sonic Generations BLES01236
+- Added Sonic The Hedgehog BLES00028
+- Added Soul Calibur V BLES01250
+- Added Spider-Man: Edge Of Time BLES01291
+- Added Street Fighter X Tekken BLES01252
+
+Version 0.66 (Apr 20, 2013) - 377
+- Added Pac-Man Championship Edition DX (PSN) NPEB00315
+- Added Prison Break: The Conspiracy BLES00765
+- Added Prototype 2 BLES01532
+- Added Prototype BLES00269
+- Added Ratchet & Clank (PSN) / The Ratchet & Clank Trilogy NPEA00385
+- Added Ratchet & Clank 2 (PSN) / The Ratchet & Clank Trilogy NPEA00386
+- Added Ratchet & Clank 3 (PSN) / The Ratchet & Clank Trilogy NPEA00387
+- Added Ratchet & Clank Future: Tools Of Destruction BCES00052
+- Added Ratchet & Clank: All 4 One BCES01141
+- Added Ratchet & Clank: QForce BCES01594
+- Added Resident Evil 4 HD (PSN) NPEB00342
+- Added Resistance 3 BCES01118
+- Added Rise Of The Guardians BLES01760
+- Added Rune Factory: Oceans BLES01550
+
+Version 0.65 (Apr 20, 2013) - 363
+- Added Marvel Vs. Capcom 3: Fate Of Two Worlds BLES01026
+- Added Marvel: Ultimate Alliance BLES00013
+- Added Metal Gear Solid 4: Guns Of The Patriots BLES00246
+- Added ModNation Racers BCES00764
+- Added Mugen Souls BLES01723
+- Added Naruto Shippuden: Ultimate Ninja Storm 3 BLES01764
+- Added Naruto Shippuden: Ultimate Ninja Storm Generations BLES01481
+- Added Naruto: Ultimate Ninja Storm BLES00371
+- Added Need For Speed: Most Wanted BLES01659
+- Added Ni No Kuni: Wrath Of The White Witch BLES01555
+- Added Ninja Gaiden 3 BLES01524
+- Added Ninja Gaiden: Sigma BLES00072
+ 
+Version 0.64 (Apr 19, 2013) - 351
+- Added Injustice: Gods Among Us BLUS31018
+- Added LEGO Harry Potter: Years 1-4 BLES00720
+- Added LEGO Harry Potter: Years 5-7 BLES01348
+- Added LEGO Indiana Jones 2: The Adventure Continues BLES00763
+- Added LEGO Indiana Jones: The Original Adventures BLES00254
+- Added LEGO Lord Of The Rings BLES01516
+- Added Last Rebellion BLES00861
+- Added Resident Evil 5: Gold Edition BLES00816
+- Removed Resident Evil 5: Gold Edition BLES00861 (ID Error)
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 0.63 (Apr 19, 2013) - 344
+- Added Final Fantasy XIII-2 BLES01269
+- Added Fist Of The North Star: Ken's Rage BLES01062
+- Added Fist Of The North Star: Ken's Rage 2 BLES01801
+- Added Fracture BLES00329
+- Added Front Mission: Evolved BLES00788
+- Added Hunted: The Demon's Forge BLES01309
+- Added Hyperdimension Neptunia BLES01178
+- Added Hyperdimension Neptunia mk2 BLES01507
+
+Version 0.62 (Apr 18, 2013) - 336
+- Added Darksiders II BLES01597
+- Added Dead Or Alive 5 (PSN) NPEB01129
+- Added Dead Rising 2: Off The Record BLES01302
+- Added Dead Space 2 BLES01041
+- Added Dead Space BLES00308
+- Added Dead Space BLES00310
+- Added Devil May Cry HD Collection BLES01228
+- Added Disgaea 3 BLES00452
+- Added Disgaea 4 BLES01225
+- Added Disney Universe BLES01354
+- Added Dungeon Siege III BLES01161
+- Added Dynasty Warriors 7: Empires (PSN) NPEB01263
+- Added Dynasty Warriors 7: Xtreme Legends BLES01496
+- Added Dynasty Warriors: Gundam 3 BLES01301
+- Added Dynasty Warriors: Gundam BLES00147
+- Removed Dead Space BCES00310 (ID Error)
+Note : Enable "Clear & Replace Cheats Folder" during update.
+
+Version 0.61 (Apr 18, 2013) - 322
+- Added Bionic Commando BLES00465
+- Added BlazBlue: Continuum Shift BLES01119
+- Added BlazBlue: Continuum Shift Extend BLES01487
+- Added Borderlands BLES00697
+- Added Castlevania: Harmony Of Despair (PSN) NPEB00563
+- Added Catherine BLES01459
+- Added Conflict: Denied Ops BLES00182
+- Added Cross Edge BLES00650
+
+Version 0.60 (Apr 17, 2013) - 314
+- Added 50 Cent: Blood On The Sand BLES00472
+- Added Afro Samurai BLES00516
+- Added Aliens: Colonial Marines BLES01455
+- Added Armored Core: For Answer BLES00370
+- Added Atelier Totori: The Adventurer Of Arland BLES01221
+- Added Record Of Agarest: War 2 BLES01643
+- Added Record Of Agarest: War Zero BLES01305
+- Added White Knight Chronicles II BCJS30042
+- Updated White Knight Chronicles II BCES01085
+- Updated White Knight Chronicles II BLUS30784
+
+Version 0.59 (Apr 16, 2013) - 306
+- Added Injustice: Gods Among Us BLES01673
+- Added Injustice: Gods Among Us BLJM60515
+- Updated DmC: Devil May Cry BLES01698
+- Updated DmC: Devil May Cry BLUS30723
+- Updated Metal Gear Rising: Revengance BLES01750
+- Updated Metal Gear Rising: Revengance BLUS31045
+
+Version 0.58 (Apr 15, 2013) - 304
+- Added DmC: Devil May Cry BLES01698
+- Added Resident Evil 5: Gold Edition BLES00861
+- Added Resident Evil 5: Gold Edition BLUS30491
+- Removed DmC: Devil May Cry BLES01690 (ID Error)
+- Updated Trinity Universe BLUS30535
+
+Version 0.57 (Apr 14, 2013) - 302
+- Added Ar Tonelico Qoga: Knell Of Ar Ciel BLES01102
+- Updated Umineko no Naku Koro ni San BLJM60414
+
+Version 0.56 (Apr 14, 2013) - 301
+- Added Umineko no Naku Koro ni San BLJM60414
+
+Version 0.55 (Apr 13, 2013) - 300
+- Updated Ninja Gaiden 3: Razor's Edge (PSN) NPJB00361
+- Updated Ninja Gaiden 3: Razor's Edge (PSN) NPUB31184
+- Updated Ninja Gaiden 3: Razor's Edge BLJM61010
+- Updated Ninja Gaiden 3: Razor's Edge BLUS31175
+- Updated Zone of the Enders HD Collection BLUS30937
+
+Version 0.54 (Apr 11, 2013) - 300
+- Added Zone of the Enders HD Collection BLUS30937
+
+Version 0.53 (Apr 11, 2013) - 299
+- Updated Little Busters! Converted Edition BLJM61009
+
+Version 0.52 (Apr 09, 2013) - 299
+- Added Macross 30: Ginga o Tsunagu Utagoe BLJS10184
+- Added Virtua Fighter 5 BLJM60016
+
+Version 0.51 (Apr 08, 2013) - 297
+- Updated 3D Dot Game Heroes BLES00875
+- Updated 3D Dot Game Heroes BLUS30490
+- Updated Ninja Gaiden 3: Razor's Edge (PSN) NPJB00361
+- Updated Ninja Gaiden 3: Razor's Edge (PSN) NPUB31184
+- Updated Ninja Gaiden 3: Razor's Edge BLJM61010
+- Updated Ninja Gaiden 3: Razor's Edge BLUS31175
+
+Version 0.50 (Apr 07, 2013) - 297
+- Added Ninja Gaiden 3: Razor's Edge (PSN) NPUB31184
+- Updated Ninja Gaiden 3: Razor's Edge (PSN) NPJB00361
+- Updated Ninja Gaiden 3: Razor's Edge BLJM61010
+- Updated Ninja Gaiden 3: Razor's Edge BLUS31175
+
+Version 0.49 (Apr 06, 2013) - 296
+- Updated Yu-Gi-Oh! 5D's Decade Duels Plus (PSN) NPUB30903
+- Removed Example Format (_EXAMPLE.ps3savepatch)
+
+Version 0.48 (Apr 05, 2013) - 297
+- Updated Hyperdimension Neptunia Victory BLES01788
+- Updated Hyperdimension Neptunia Victory BLJM60491
+- Updated Hyperdimension Neptunia Victory BLUS31150
+
+Version 0.47 (Apr 04, 2013) - 297
+- Added Ninja Gaiden 3: Razor's Edge (PSN) NPJB00361
+- Added Ninja Gaiden 3: Razor's Edge BLJM61010
+- Added Ninja Gaiden 3: Razor's Edge BLUS31175
+
+Version 0.46 (Apr 04, 2013) - 294
+- Added Castle Crashers (PSN) NPUB30181
+- Updated Moe Moe Daisensou * Gendaiban++ BLJM10163
+- Updated Sengoku Basara: Samurai Heroes BLJM60218
+- Updated Sengoku Basara: Samurai Heroes BLUS30492
+
+Version 0.45 (Apr 03, 2013) - 293
+- Added Moe Moe Daisensou * Gendaiban++ BLJM10163
+- Added Sengoku Basara: Samurai Heroes BLJM60218
+- Added Sengoku Basara: Samurai Heroes BLUS30492
+- Added Shin Sangoku Musou 7 NPJB00325
+
+Version 0.44 (Apr 02, 2013) - 289
+- Added Beyond Good & Evil HD (PSN) NPEB00435
+- Added Dragon Ball Z Budokai: HD Collection BLES01658
+
+Version 0.43 (Apr 01, 2013) - 287
+- Added Dead Nation: Road of Devastation (PSN) NPEA00143
+- Added Deus Ex: Human Revolution BLJM60353
+- Added Shutsugeki!! Otometachi no Senjou 2: Yuukoku o Kakeru Koujo no Tsubasa BLJS10165
+
+Version 0.42 (Mar 30, 2013) - 284
+- Added Dragon Ball Z Budokai: HD Collection BLUS30966
+- Added Hyperdimension Neptunia Victory BLUS31150
+- Updated Army of TWO The Devil's Cartel BLES01767
+- Updated Army of TWO The Devil's Cartel BLUS31069
+- Updated Resident Evil 6 BLES01465
+- Updated Resident Evil 6 BLUS30855
+
+Version 0.41 (Mar 29, 2013) - 282
+- Updated Army of TWO The Devil's Cartel BLES01767
+- Updated Army of TWO: The Devil's Cartel BLUS31069
+
+Version 0.40 (Mar 28, 2013) - 282
+- Added Accel World: Kasoku no Chouten BLJS10176
+- Added Little Busters! Converted Edition BLJM61009
+- Added Tiger Woods PGA Tour 14 BLUS31063
+- Updated Army of TWO: The Devil's Cartel BLES01767
+- Updated Army of TWO: The Devil's Cartel BLUS31069
+
+Version 0.39 (Mar 27, 2013) - 279
+- Removed Status/Info Alpha Protocol BLES00704
+- Removed Status/Info Alpha Protocol BLUS30341
+- Removed Status/Info Asura's Wrath BLES01227
+- Removed Status/Info Asura's Wrath BLUS30721
+- Removed Status/Info Castlevania: Lords Of Shadow BLES01047
+- Removed Status/Info Castlevania: Lords Of Shadow BLUS30339
+- Removed Status/Info Darksiders II BLUS30829
+- Removed Status/Info Just Cause 2 BLES00517
+- Removed Status/Info Just Cause 2 BLUS30400
+- Removed Status/Info Midnight Club: Los Angeles BLES00362
+- Removed Status/Info Midnight Club: Los Angeles BLUS30190
+- Removed Status/Info SSX BLAS50445
+- Removed Status/Info SSX BLES01437
+- Removed Status/Info SSX BLUS30849
+- Removed Status/Info Silent Hill: HD Collection BLUS30810
+- Removed Status/Info Singularity BLUS30296
+- Removed Status/Info Spider-Man: Edge Of Time BLUS30760
+- Removed Status/Info Splatterhouse BLAS50259
+- Removed Status/Info Splatterhouse BLES01120
+- Removed Status/Info Splatterhouse BLUS30335
+- Removed Status/Info Thor: God Of Thunder BLUS30539
+- Removed Status/Info Turning Point: Fall Of Liberty BLUS30119
+- Set Status/Info Borderlands 2 BLES01684
+- Set Status/Info Borderlands 2 BLUS30982
+- Set Status/Info DmC: Devil May Cry BLES01690
+- Set Status/Info DmC: Devil May Cry BLUS30723
+- Set Status/Info Grand Theft Auto IV / Grand Theft Auto: Episodes From Liberty City BLUS30127
+
+Version 0.38 (Mar 27, 2013) - 279
+- Added Kingdom Hearts HD 1.5 ReMIX BLJM60589
+- Set Status/Info Kingdom Hearts HD 1.5 ReMIX BLJM60589 
+
+Version 0.37 (Mar 26, 2013) - 278
+- Added Pro Yakyuu Spirits 2013 BLAS50575
+- Added One Piece: Pirate Warriors BLES01672
+- Updated Pro Yakyuu Spirits 2013 BLJM60581
+- Updated One Piece: Pirate Warriors (PSN) NPUB30836
+
+Version 0.36 (Mar 25, 2013) - 276
+- Added Pro Yakyuu Spirits 2013 BLJM60581
+
+Version 0.35 (Mar 24, 2013) - 275
+- Added Resident Evil: The Darkside Chronicles (PSN) NPUB30648
+- Added Resident Evil: The Umbrella Chronicles (PSN) NPUB30650
+- Added Yu-Gi-Oh! 5D's Decade Duels Plus (PSN) NPUB30903
+- Removed Status/Info Twisted Metal BCUS98106
+- Set Status/Info Castlevania: Lords Of Shadow BLES01047
+- Set Status/Info Castlevania: Lords Of Shadow BLUS30339
+- Set Status/Info Conan BLES00076
+- Set Status/Info Conan BLUS30069
+- Set Status/Info Yu-Gi-Oh! 5D's Decade Duels Plus (PSN) NPUB30903
+
+Version 0.34 (Mar 23, 2013) - 272
+- Added Fist Of The North Star: Kens Rage 2 (PSN) NPUB30849
+- Added The Walking Dead: Survival Instinct BLES01779
+- Updated Atelier Ayesha: The Alchemist of Dusk BLES01793
+- Updated Atelier Ayesha: The Alchemist of Dusk BLUS31152
+- Updated The Walking Dead: Survival Instinct BLUS31065
+ 
+Version 0.33 (Mar 22, 2013) - 270
+- Added Hot Shots Golf 6 BCJS30089
+- Updated The Walking Dead: Survival Instinct BLUS31065
+
+Version 0.32 (Mar 21, 2013) - 269
+- Added Disgaea D2: A Brighter Darkness BLJS10205
+- Updated The Walking Dead: Survival Instinct BLUS31065
+
+Version 0.31 (Mar 20, 2013) - 268
+- Added One Piece: Pirate Warriors 2 BLJM60572
+- Added The Walking Dead: Survival Instinct BLUS31065
+
+Version 0.30 (Mar 19, 2013) - 266
+- Added Lollipop Chainsaw BLES01525
+- Added Lollipop Chainsaw BLUS30917
+- Set Status/Info Army of TWO: The Devil's Cartel BLES01767
+- Set Status/Info Army of TWO: The Devil's Cartel BLUS31069
+- Updated Lollipop Chainsaw BLJS10168
+
+Version 0.29 (Mar 18, 2013) - 264
+- Added Army of TWO: The Devil's Cartel BLES01767
+- Added Army of TWO: The Devil's Cartel BLUS31069
+
+Version 0.28 (Mar 18, 2013) - 262
+- Added Dead Or Alive 5 BLES01623
+- Added Dead Or Alive 5 BLUS30971
+- Added Far Cry 3 BLUS30687
+- Added Saints Row: The Third BLUS30666
+- Updated Dead Or Alive 5 (PSN) NPUB30893
+- Updated God Of War: Ascension BCES01741
+- Updated God Of War: Ascension BCUS98232
+- Updated Metal Gear Rising: Revengance BLES01750
+- Updated Metal Gear Rising: Revengance BLUS31045
+- Updated Resident Evil 6 BLES01465
+- Updated Resident Evil 6 BLUS30855
+
+Version 0.27 (Mar 17, 2013) - 258
+- Added Dynasty Warriors 7 Empires (PSN) NPUB30846
+- Updated Atelier Ayesha: The Alchemist of Dusk BLES01793
+- Updated Atelier Ayesha: The Alchemist of Dusk BLUS31152
+- Updated Dynasty Warriors 7: Empires BCUS50563
+- Updated Dynasty Warriors 7: Empires BLES01796
+- Updated God Of War: Ascension BCES01741
+- Updated God Of War: Ascension BCUS98232
+
+Version 0.26 (Mar 16, 2013) - 257
+- Added Hustle Kings (PSN) NPUA80291
+- Updated Atelier Meruru: The Apprentice Of Arland BLES01593
+- Updated Atelier Meruru: The Apprentice Of Arland BLUS30941
+- Updated Black Knight Sword (PSN) NPUB30719
+
+Version 0.25 (Mar 16, 2013) - 256
+- Added Black Knight Sword (PSN) NPUB30719
+- Added Hyperdimension Neptunia Victory BLJM60491
+- Added Hyperdimension Neptunia Victory BLES01788
+
+Version 0.24 (Mar 15, 2013) - 253
+- Added Dai-2-Ji Super Robot Taisen OG BLJS10133
+- Added Darkstalkers Resurrection (PSN) NPUB30666
+
+Version 0.23 (Mar 14, 2013) - 251
+- Added Darkstalkers Resurrection BLJM60567
+- Added God Of War: Ascension BCES01741
+- Added God Of War: Ascension BCUS98232
+
+Version 0.22 (Mar 13, 2013) - 248
+- Added Atelier Ayesha: The Alchemist of Dusk BLES01793
+- Added Tomb Raider BLUS31036
+- Updated Dynasty Warriors 7 Empires BCUS50563
+- Updated Dynasty Warriors 7 Empires BLES01796
+
+Version 0.21 (Mar 10, 2013) - 246
+- Added Mortal Kombat BLES01132
+- Updated BioShock BLUS30166
+- Updated Gran Turismo 5 BCES00569
+- Updated Gran Turismo 5 BCUS98114
+- Updated Naruto Shippuden: Ultimate Ninja Storm 3 BLAS50577
+- Updated Naruto Shippuden: Ultimate Ninja Storm 3 BLJS10200
+- Updated Naruto Shippuden: Ultimate Ninja Storm 3 BLUS31066
+- Updated White Knight Chronicles BCUS98146
+
+Version 0.20 (Mar 08, 2013) - 245
+- Added Lollipop Chainsaw BLJS10168
+- Added Okami HD BLJM60467
+
+Version 0.19 (Mar 07, 2013) - 243
+- Added Atelier Ayesha: The Alchemist of Dusk BLUS31152
+- Added Naruto Shippuden: Ultimate Ninja Storm 3 BLAS50577
+- Added Naruto Shippuden: Ultimate Ninja Storm 3 BLJS10200
+- Added Naruto Shippuden: Ultimate Ninja Storm 3 BLUS31066
+- Updated Just Cause 2 BLES00517
+- Updated Just Cause 2 BLUS30400
+- Updated Yakuza 3 BLES00834
+- Updated Yakuza 3 BLUS30494
+- Updated inFamous BCES00609
+
+Version 0.18 (Mar 06, 2013) - 239
+- Added Yakuza 3 BLES00834
+- Added inFamous BCES00609
+- Updated Just Cause 2 BLES00517
+- Updated Just Cause 2 BLUS30400
+- Updated Yakuza 3 BLUS30494
+
+Version 0.17 (Mar 05, 2013) - 237
+- Added Dynasty Warriors 7 Empires BCUS50563
+- Added Dynasty Warriors 7 Empires BLES01796
+- Updated Example Format (_EXAMPLE.ps3savepatch)
+
+Version 0.16 (Mar 03, 2013) - 235
+- Added Gran Turismo 5 BCUS98114
+- Added Gran Turismo 5 BCES00569
+
+Version 0.15 (Mar 03, 2013) - 233
+- Added Tomb Raider BLES01780
+
+Version 0.14 (Feb 28, 2013) - 232
+- Added Aliens: Colonial Marines BLUS30862
+- Updated Example Format (_EXAMPLE.ps3savepatch)
+
+Version 0.13 (Feb 27, 2013) - 231
+- Updated GoldenEye 007: Reloaded BLES01292
+- Updated GoldenEye 007: Reloaded BLUS30755
+
+Version 0.12 (Feb 27, 2013) - 231
+- Added Atelier Meruru: The Apprentice Of Arland BLES01593
+- Added Atelier Rorona: The Alchemist Of Arland BLES01030
+- Added Dead Rising 2 BLES00948
+- Added Dynasty Warriors 7 BLES01149
+- Added Jetpack Joyride (PSN) NPEB01240
+- Added Just Cause 2 BLES00517
+- Updated Example Format (_EXAMPLE.ps3savepatch)
+
+Version 0.11 (Feb 26, 2013) - 225
+- Set Status/Info 3D Dot Game Heroes BLES00875
+- Set Status/Info 3D Dot Game Heroes BLUS30490
+- Set Status/Info Alpha Protocol BLES00704
+- Set Status/Info Alpha Protocol BLUS30341
+- Set Status/Info Asura's Wrath BLES01227
+- Set Status/Info Asura's Wrath BLUS30721
+- Set Status/Info Batman: Arkham Asylum (GOTY) BLUS30515
+- Set Status/Info Batman: Arkham Asylum BLES00503
+- Set Status/Info Batman: Arkham Asylum BLUS30279
+- Set Status/Info Batman: Arkham City (GOTY) BLUS30978
+- Set Status/Info Batman: Arkham City BLES00926
+- Set Status/Info Batman: Arkham City BLUS30538
+- Set Status/Info Borderlands 2 BLES01684
+- Set Status/Info Borderlands 2 BLUS30982
+- Set Status/Info Borderlands BLUS30386
+- Set Status/Info Castlevania: Lords Of Shadow BLES01047
+- Set Status/Info Castlevania: Lords Of Shadow BLUS30339
+- Set Status/Info Conan BLES00076
+- Set Status/Info Conan BLUS30069
+- Set Status/Info Darksiders II BLUS30829
+- Set Status/Info Dead Space 2 BLUS30717
+- Set Status/Info Dead Space 2 BLUS30624
+- Set Status/Info Dead Space 3 (PSN) NPUB30906
+- Set Status/Info Dead Space 3 BLES01733
+- Set Status/Info Dead Space 3 BLUS31053
+- Set Status/Info Disney Universe BLUS30773
+- Set Status/Info DmC: Devil May Cry BLES01690
+- Set Status/Info DmC: Devil May Cry BLUS30723
+- Set Status/Info Dungeon Siege III BLUS30510
+- Set Status/Info Final Fantasy XIII MRTC00003
+- Set Status/Info Final Fantasy XIII-2 BLUS30776
+- Set Status/Info GoldenEye 007: Reloaded BLES01292
+- Set Status/Info GoldenEye 007: Reloaded BLUS30755
+- Set Status/Info Grand Theft Auto IV / Grand Theft Auto: Episodes From Liberty City BLUS30127
+- Set Status/Info Just Cause 2 BLUS30400
+- Set Status/Info Midnight Club: Los Angeles BLES00362
+- Set Status/Info Midnight Club: Los Angeles BLUS30190
+- Set Status/Info Ni No Kuni: Wrath Of The White Witch (PSN) NPUB30932
+- Set Status/Info Ni No Kuni: Wrath Of The White Witch BLUS30947
+- Set Status/Info Prototype 2 BLUS30756
+- Set Status/Info Prototype BLUS30145
+- Set Status/Info SSX BLAS50445
+- Set Status/Info SSX BLES01437
+- Set Status/Info SSX BLUS30849
+- Set Status/Info Silent Hill: HD Collection BLUS30810
+- Set Status/Info Singularity BLUS30296
+- Set Status/Info Spider-Man: Edge Of Time BLUS30760
+- Set Status/Info Splatterhouse BLAS50259
+- Set Status/Info Splatterhouse BLES01120
+- Set Status/Info Splatterhouse BLUS30335
+- Set Status/Info Thor: God Of Thunder BLUS30539
+- Set Status/Info Turning Point: Fall Of Liberty BLUS30119
+- Set Status/Info Twisted Metal BCUS98106
+
+Version 0.10 (Feb 26, 2013) - 225
+- Added Batman: Arkham City BLES00926 
+- Added BioShock 2 BLES00728
+- Added Bleach: Soul Resurreccion BLES01315
+- Added Conan BLES00076
+- Added Dead To Rights: Retribution BLES00824
+- Added DmC: Devil May Cry BLES01690
+- Added Dynasty Warriors: Strikeforce BLES00825
+- Added LEGO Batman 2: DC Super Heroes BLES01613
+- Added inFamous 2 BCES01143
+- Updated Splatterhouse BLAS50259
+- Updated Splatterhouse BLES01120
+- Updated Splatterhouse BLUS30335
+
+Version 0.09 (Feb 25, 2013) - 216
+- Added 3D Dot Game Heroes BLES00875
+- Added Assassin's Creed III BLES01667
+- Added Metal Gear Rising: Revengance BLUS31045
+- Added Record Of Agarest: War BLES00594
+- Updated Metal Gear Rising: Revengance BLES01750
+
+Version 0.08 (Feb 24, 2013) - 212
+- Added Asura's Wrath BLES01227
+- Added BioShock BLES00316
+- Added Bladestorm: The Hundred Years' War BLES00113
+- Added Borderlands 2 BLES01684
+- Added Dead Space 3 BLES01733
+- Added Enchanted Arms BLES00049
+- Added Enslaved: Odyssey To The West BLES00989
+- Added Eternal Sonata BLES00444
+- Added LEGO Batman: The Videogame BLES00332
+- Added Midnight Club: Los Angeles BLES00362
+- Added Naruto Shippuden: Ultimate Ninja Storm 2 BLES00952
+- Added Ninja Gaiden: Sigma 2 BLES00736
+- Added Resident Evil 5 BLES00485
+- Added Resident Evil 6 BLES01465
+- Added Saints Row 2 BLES00373
+- Added Star Wars: The Force Unleashed BLES00262
+- Added Super Street Fighter IV BLES00770
+- Added The Elder Scrolls V: Skyrim BLES01329
+- Updated Resident Evil 6 BLUS30855
+- Updated White Knight Chronicles II BCES01085
+- Updated White Knight Chronicles II BLUS30784
+
+Version 0.07 (Feb 23, 2013) - 194
+- Added Assassin's Creed: Brotherhood BLES00909
+- Added Assassin's Creed: Revelations BLES01384
+- Added Batman: Arkham Asylum BLES00503
+- Added Castlevania: Lords Of Shadow BLES01047
+- Added Dead Space BCES00310
+- Added God Of War III BCES00510
+- Added GoldenEye 007: Reloaded BLES01292
+- Added Kane & Lynch: Dead Men BLES00167
+- Added Nier BLES00826
+- Added Uncharted: Drake's Fortune BCES00065
+
+Version 0.06 (Feb 22, 2013) - 184
+- Added Kidou Senshi Gundam: Extreme VS BLJS10131
+- Added Max Payne 3 BLES00942
+- Added Metal Gear Rising: Revengance BLES01750
+- Added The Darkness II BLES01388
+- Updated The Darkness II BLUS30743
+
+Version 0.05 (Feb 20, 2013) - 180
+- Added White Knight Chronicles II BCES01085
+- Updated White Knight Chronicles II BLUS30784
+
+Version 0.04 (Feb 20, 2013) - 179
+- Added Alpha Protocol BLES00704
+- Added SSX BLAS50445
+- Added SSX BLES01437
+- Added Splatterhouse BLAS50259
+- Added Splatterhouse BLES01120
+- Added Tales Of Graces f BLJS10093
+
+Version 0.03 (Feb 19, 2013) - 173
+- Added Example Format (_EXAMPLE.ps3savepatch)
+
+Version 0.02 (Feb 19, 2013) - 172
+- Added Star Ocean: The Last Hope International MRTC00001
+- Added Trinity: Souls Of Zill O'll BLES01184
+- Added Trinity: Souls Of Zill O'll BLJM60212 
+- Updated Trinity: Souls Of Zill O'll BLUS30503
+
+Version 0.01 (Feb 19, 2013) - 169
+- Added 3D Dot Game Heroes BLUS30490
+- Added 50 Cent: Blood On The Sand BLUS30256 
+- Added Afro Samurai BLUS30264
+- Added Alpha Protocol BLUS30341
+- Added Ar Tonelico Qoga: Knell Of Ar Ciel BLUS30639 
+- Added Armored Core: For Answer BLUS30187 
+- Added Assassin's Creed III BLUS30991 
+- Added Assassin's Creed: Brotherhood BLUS30537
+- Added Assassin's Creed: Revelations BLUS30808
+- Added Asura's Wrath BLUS30721
+- Added Atelier Meruru: The Apprentice Of Arland BLUS30941
+- Added Atelier Rorona: The Alchemist Of Arland BLUS30465
+- Added Atelier Totori: The Adventurer Of Arland BLUS30735
+- Added Batman: Arkham Asylum (GOTY) BLUS30515
+- Added Batman: Arkham Asylum BLUS30279
+- Added Batman: Arkham City (GOTY) BLUS30978
+- Added Batman: Arkham City BLUS30538
+- Added BioShock 2 BLUS30420
+- Added BioShock BLUS30166
+- Added Bionic Commando BLUS30255
+- Added Bladestorm: The Hundred Years' War BLUS30070
+- Added BlazBlue: Continuum Shift BLUS30576
+- Added BlazBlue: Continuum Shift Extend BLUS30869
+- Added Bleach: Soul Resurreccion BLUS30769
+- Added Borderlands 2 BLUS30982
+- Added Borderlands BLUS30386
+- Added Brother's in Arms: Hell's Highway BLUS30165 [0 Cheats]
+- Added Castlevania: Harmony Of Despair (PSN) NPUB30505
+- Added Castlevania: Lords Of Shadow BLUS30339
+- Added Catherine BLUS30428
+- Added Clash Of The Titans: The Videogame BLUS30505 [0 Cheats]
+- Added Conan BLUS30069
+- Added Conflict: Denied Ops BLUS30107
+- Added Cross Edge BLUS30348
+- Added Darksiders II BLUS30829
+- Added Dead Or Alive 5 (PSN) NPUB30893
+- Added Dead Rising 2 BLUS30439
+- Added Dead Rising 2: Off The Record BLUS30763
+- Added Dead Space 2 BLUS30717
+- Added Dead Space 2 BLUS30624
+- Added Dead Space 3 (PSN) NPUB30906
+- Added Dead Space 3 BLUS31053
+- Added Dead Space BLUS30177
+- Added Dead To Rights: Retribution BLUS30278
+- Added Devil May Cry HD Collection BLUS30764
+- Added Disgaea 3 BLUS30181
+- Added Disgaea 4 BLUS30727
+- Added Dishonored BLUS30501 [0 Cheats]
+- Added Disney Universe BLUS30773
+- Added DmC: Devil May Cry BLUS30723
+- Added Dragon's Dogma BLUS30720 [0 Cheats]
+- Added Dungeon Siege III BLUS30510
+- Added Dynasty Warriors 7 BLUS30690
+- Added Dynasty Warriors 7: Xtreme Legends BLUS30873
+- Added Dynasty Warriors: Gundam 2 BLUS30288
+- Added Dynasty Warriors: Gundam 3 BLUS30703
+- Added Dynasty Warriors: Gundam BLUS30058
+- Added Dynasty Warriors: Strikeforce BLUS30471
+- Added Enchanted Arms BLUS30028
+- Added Enslaved: Odyssey To The West BLUS30558
+- Added Eternal Sonata BLUS30161
+- Added Fallout 3 BLUS30185 [0 Cheats]
+- Added Fallout: New Vegas BLUS30500 [0 Cheats]
+- Added Final Fantasy XIII MRTC00003
+- Added Final Fantasy XIII-2 BLUS30776
+- Added Fist Of The North Star: Ken's Rage BLUS30504
+- Added Fracture BLUS30184
+- Added Front Mission: Evolved BLUS30395
+- Added God Of War III BCUS98111
+- Added God Of War: Origins Collection BCUS98289
+- Added GoldenEye 007: Reloaded BLUS30755
+- Added Grand Theft Auto IV / Grand Theft Auto: Episodes From Liberty City BLUS30127
+- Added Hunted: The Demon's Forge BLUS30406
+- Added Hyperdimension Neptunia BLUS30701
+- Added Hyperdimension Neptunia mk2 BLUS30901
+- Added Jetpack Joyride (PSN) NPUB31097
+- Added Just Cause 2 BLUS30400
+- Added Kane & Lynch: Dead Men BLUS30102
+- Added LEGO Batman 2: DC Super Heroes BLUS30837
+- Added LEGO Batman: The Videogame BLUS30175
+- Added LEGO Harry Potter: Years 1-4 BLUS30437
+- Added LEGO Harry Potter: Years 5-7 BLUS30794
+- Added LEGO Indiana Jones 2: The Adventure Continues BLUS30425
+- Added LEGO Indiana Jones: The Original Adventures BLUS30141
+- Added LEGO Lord Of The Rings BLUS30963
+- Added Last Rebellion BLUS30512
+- Added Marvel Vs. Capcom 3: Fate Of Two Worlds BLUS30410
+- Added Marvel: Ultimate Alliance BLUS30010
+- Added Max Payne 3 BLUS30557
+- Added Metal Gear Solid 4: Guns Of The Patriots BLUS30109
+- Added Midnight Club: Los Angeles BLUS30190
+- Added ModNation Racers BCUS98167
+- Added Mortal Kombat BLUS30522
+- Added Mugen Souls BLUS31007
+- Added Naruto Shippuden: Ultimate Ninja Storm 2 BLUS30495
+- Added Naruto Shippuden: Ultimate Ninja Storm Generations BLUS30792
+- Added Naruto: Ultimate Ninja Storm BLUS30200
+- Added Need For Speed: Most Wanted BLUS31010
+- Added Ni No Kuni: Wrath Of The White Witch (PSN) NPUB30932
+- Added Ni No Kuni: Wrath Of The White Witch BLUS30947
+- Added Nier BLUS30481
+- Added Ninja Gaiden 3 BLUS30916
+- Added Ninja Gaiden: Sigma 2 BLUS30380
+- Added Ninja Gaiden: Sigma BLUS30036
+- Added One Piece: Pirate Warriors (PSN) NPUB30836
+- Added Pac-Man Championship Edition DX (PSN) NPUB30304
+- Added Persona 4 Arena BLUS30985
+- Added Plants Vs Zombies (PSN) NPUA30059
+- Added Prison Break: The Conspiracy BLUS30467
+- Added Prototype 2 BLUS30756
+- Added Prototype BLUS30145
+- Added Rainbow Moon (PSN) NPUB30434
+- Added Ratchet & Clank (PSN) / Ratchet & Clank Collection NPUA80643
+- Added Ratchet & Clank 2: Going Commando (PSN) / Ratchet & Clank Collection NPUA80644
+- Added Ratchet & Clank Future: Tools Of Destruction BCUS98127
+- Added Ratchet & Clank: All 4 One (PSN) NPUA80695
+- Added Ratchet & Clank: All 4 One BCUS98175
+- Added Ratchet & Clank: Full Frontal Assault BCUS98380
+- Added Ratchet & Clank: Up Your Arsenal (PSN) / Ratchet & Clank Collection NPUA80645
+- Added Record Of Agarest: War (PSN) NPUB30142
+- Added Record Of Agarest: War 2 BLUS30881
+- Added Record Of Agarest: War Zero BLUS30686
+- Added Resident Evil 4 HD (PSN) NPUB30312
+- Added Resident Evil 5 BLUS30270
+- Added Resident Evil 6 BLUS30855
+- Added Resistance 3 BCUS98176
+- Added Rise Of The Guardians BLUS31067
+- Added Rune Factory: Tides Of Destiny BLUS30759
+- Added SSX BLUS30849
+- Added Saints Row 2 BLUS30201
+- Added Silent Hill: HD Collection BLUS30810
+- Added Silent Hill: Homecoming BLUS30169
+- Added Singularity BLUS30296
+- Added Sly Cooper: Thieves In Time BCUS98247
+- Added Sniper Elite V2 BLUS30798
+- Added Sonic Generations BLUS30612
+- Added Sonic The Hedgehog BLUS30008
+- Added Soul Calibur V BLUS30736
+- Added Spider-Man: Edge Of Time BLUS30760
+- Added Splatterhouse BLUS30335
+- Added Star Wars: The Force Unleashed BLUS30144
+- Added Street Fighter X Tekken BLUS30722
+- Added Super Street Fighter IV BLUS30453
+- Added Tales Of Graces f BLUS30903
+- Added The Darkness II BLUS30743
+- Added The Elder Scrolls V: Skyrim BLUS30778
+- Added The House Of The Dead: Overkill - Extended Cut BLUS30774
+- Added Thor: God Of Thunder BLUS30539
+- Added Tokyo Jungle (PSN) NPUA80523
+- Added Trinity Universe BLUS30535
+- Added Trinity: Souls Of Zill O'll BLUS30503
+- Added Turning Point: Fall Of Liberty BLUS30119
+- Added Twisted Metal BCUS98106
+- Added Ultimate Marvel Vs Capcom 3 BLUS30787
+- Added Uncharted 2: Among Thieves BCUS98123
+- Added Uncharted 3: Drake's Deception BCUS98233
+- Added Uncharted: Drake's Fortune BCUS98103
+- Added Under Defeat HD: Deluxe Edition BLUS31077
+- Added Valkyria Chronicles BLUS30196
+- Added Warriors Orochi 3 (PSN) NPUB30708
+- Added Way Of The Samurai 3 BLUS30398
+- Added Way Of The Samurai 4 (PSN) NPUB30755
+- Added White Knight Chronicles BCUS98146
+- Added White Knight Chronicles II BLUS30784
+- Added Wizardry: Labyrinth Of Lost Souls (PSN) NPUB30452
+- Added Yakuza 3 BLUS30494
+- Added Yakuza 4 BLUS30643
+- Added inFamous 2 BCUS98125
+- Added inFamous BCUS98119

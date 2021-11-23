@@ -1,0 +1,26 @@
+; Soldner-X 2: Final Prototype (PSN)
+; NPUB30105
+;From boogersculptor & aldostools
+
+:DATAA
+
+[All 50 Collected Keys]
+write at 0x10E4:repeat(0x32,0x01)
+
+[Lock first Collected Key to allow Trophy when unlocked]
+write at 0x10E4:00
+
+[Collected Extras]
+write at 0x1136:07FB
+
+[Enemies Killed]
+write at 0x113A:38D7
+
+[Chain Levels]
+write at 0x113E:020E
+
+[Collected Chain Rings]
+write at 0x1146:9329
+
+[Unlock 30 Challenges (w/DLC)]
+write at 0x1194:repeat(0x1E,00000000000100000000000000000000)

@@ -1,0 +1,15 @@
+; Minecraft
+; NPJB00539
+; by zeick
+
+Group: Update CRC32 Checksum (Required)
+
+:GAMEDATA
+[Get CRC32 GAMEDATA (Required)]
+set [crc32_GAMEDATA]:crc32
+
+;dependency: METADATA
+
+:METADATA
+[Update CRC32 on METADATA (required)]
+write at 0xc:[crc32_GAMEDATA]

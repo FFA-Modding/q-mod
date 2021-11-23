@@ -1,0 +1,191 @@
+;BLUS30937
+;Zone of the Enders HD Collection
+;From Zephyer
+
+; --- Zone of the Enders HD Edition  ---
+
+:GAMEDATA.DAT
+
+[Save Slot 01 - Max EXP/Level]
+00000001 000000FF
+10000002 0000FFFF
+ 
+[Save Slot 01 - Max AMMO - Javelin]
+1000002E 0000FFFF
+ 
+[Save Slot 01 - Max AMMO - Geyser]
+10000030 0000FFFF
+ 
+[Save Slot 01 - Max AMMO -  Bounder]
+10000032 0000FFFF
+ 
+[Save Slot 01 - Max AMMO - Phalanx]
+10000034 0000FFFF
+ 
+[Save Slot 01 - Max AMMO - Halberd]
+10000036 0000FFFF
+ 
+[Save Slot 01 - Max AMMO - Comet]
+10000038 0000FFFF
+ 
+[Save Slot 01 - Max AMMO - Gauntlet]
+1000003A 0000FFFF
+ 
+[Save Slot 01 - Max Ammo - Sniper]
+1000003C 0000FFFF
+ 
+[Save Slot 01 - Max Defeated]
+10000040 0000270F
+ 
+[Save Slot 01 - Number Of Times Saved Always 0]
+10000044 00000000
+ 
+[Save Slot 01 - Number Of Times Continued Always 0]
+10000048 00000000
+ 
+[DEFAULT:Save Slot 01 - Update csum]
+set [csum]:0
+set [csum]:xor(0,7F,1)
+write at 0xCC80:[csum]
+ 
+[Save Slot 02 - Max EXP/Level]
+0000D0FD 000000FF
+1000D0FE 0000FFFF
+ 
+[Save Slot 02 - Max AMMO - Javelin]
+1000D12A 0000FFFF
+ 
+[Save Slot 02 - Max AMMO - Geyser]
+1000D12C 0000FFFF
+ 
+[Save Slot 02 - Max Ammo - Bounder]
+1000D12E 0000FFFF
+ 
+[Save Slot 02 - Max AMMO - Phalanx]
+1000D130 0000FFFF
+ 
+[Save Slot 02 - Max AMMO - Halberd]
+1000D134 0000FFFF
+ 
+[Save Slot 02 - Max AMMO - Comet]
+1000D136 0000FFFF
+ 
+[Save Slot 02 - Max AMMO - Gauntlet]
+1000D138 0000FFFF
+ 
+[Save Slot 02 - Max Ammo - Sniper]
+1000D13A 0000FFFF
+ 
+[Save Slot 02 - Max AMMO - Decoy]
+1000D13C 0000FFFF
+ 
+[Save Slot 02 - Max AMMO - Mummy]
+1000D13E 0000FFFF
+ 
+[Save Slot 02 - Max Defeated]
+1000D142 0000270F
+ 
+[Save Slot 02 - Number Of Times Saved Always 0]
+1000D144 00000000
+ 
+[Save Slot 02 - Number Of Times Continued Always 0]
+1000D148 00000000
+ 
+[DEFAULT:Save Slot 02 - Update csum]
+set [csum]:0
+set [csum]:xor(D0FC,D17B,1)
+write at 0x19D7C:[csum]
+ 
+[Save Slot 03 - Max Level/EXP]
+2001A1F8 00FFFFFF
+ 
+[Save Slot 03 - Max AMMO - Javelin]
+1001A226 000003E7
+ 
+[Save Slot 03 - Max AMMO - Geyser]
+1001A228 000003E7
+ 
+[Save Slot 03 - Max AMMO - Bounder]
+1001A22A 000003E7
+ 
+[Save Slot 03 - Max AMMO - Phalanx]
+1001A22C 000003E7
+ 
+[Save Slot 03 - Max AMMO - Halberd]
+1001A22E 000003E7
+ 
+[Save Slot 03 - Max AMMO - Comet]
+1001A230 000003E7
+ 
+[Save Slot 03 - Max AMMO - Gauntlet]
+1001A232 000003E7
+ 
+[Save Slot 03 - Max AMMO - Sniper]
+1001A234 000003E7
+ 
+[Save Slot 03 - Max AMMO - Decoy]
+1001A236 000003E7
+ 
+[Save Slot 03 - Max AMMO - Mummy]
+1001A238 000003E7
+ 
+[Save Slot 03 - Max Defeated]
+1001A23E 0000270F
+ 
+[Save Slot 03 - Number Of Times Saved Always 0]
+1001A240 00000000
+ 
+[Save Slot 03 - Number Of Times Continued Always 0]
+1001A242 00000000
+ 
+[DEFAULT:Save Slot 03 - Update csum]
+set [csum]:0
+set [csum]:xor(1A1F8,1A277,1)
+write at 0x26E78:[csum]
+ 
+[Save Slot 04 - Max Level/EXP]
+200272F4 00FFFFFF
+ 
+[Save Slot 04 - Max AMMO - Javelin]
+10027322 000003E7
+ 
+[Save Slot 04 - Max AMMO - Geyser]
+10027324 000003E7
+ 
+[Save Slot 04 - Max AMMO - Bounder]
+10027326 000003E7
+ 
+[Save Slot 04 - Max AMMO - Phalanx]
+10027328 000003E7
+ 
+[Save Slot 04 - Max AMMO - Halberd]
+1002732A 000003E7
+ 
+[Save Slot 04 - Max AMMO - Comet]
+1002732C 000003E7
+ 
+[Save Slot 04 - Max AMMO - Gauntlet]
+1002732E 000003E7
+ 
+[Save Slot 04 - Max AMMO - Sniper]
+10027330 000003E7
+ 
+[Save Slot 04 - Max AMMO - Decoy]
+10027332 000003E7
+ 
+[Save Slot 04 - Max AMMO - Mummy]
+10027334 000003E7
+ 
+[Save Slot 04 - Max Defeated]
+1002733A 0000270F
+ 
+[Save Slot 04 - Number Of Times Saved Always 0]
+1002733C 00000000
+ 
+[Save Slot 04 - Number Of Times Continued Always 0]
+1002733E 00000000
+ 
+[DEFAULT:Update CSUM (Must Be On)]
+set [csum]:0
+set [csum]:xor(272F4,27373,1)
+write at 0x33F74:[csum]
