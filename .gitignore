@@ -36,3 +36,7 @@
 
 # Visual Studio Files
 .vs/
+
+# PS3SavePatches
+
+*.ps3savepatch
