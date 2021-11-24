@@ -1,0 +1,7 @@
+prt("----> LOADED global SCRIPT")
+run_script("phoenix_ph1_vo")
+run_script("objectives_pho1")
+run_script("savedata")
+run_script("scenes_plumber")
+run_script("music")
+run_script("phoenix_screens")
