@@ -5,21 +5,21 @@ Plus, to make the game realize it's a real update, I'll add a v1.06 patch, maybe
 ## FileList.xml infos
 
 To repack a game in a PSArc you'll have to create a `FileList.xml` and then write in the relative path to the file from the `FileList.xml`.  
-For example, it may looks like that: ```xml
-assets\data\configs\weapon.csv
-assets\data\configs\competitiveweapon.csv
-assets\data\configs\competitivedefense.csv
-assets\data\configs\ennemy.csv
-assets\data\configs\competitivebasepurchase.csv
-assets\data\configs\defense.cvs
-assets\levels\acid_refinery_pvp\scripts\global.lua
-assets\levels\pvp_dlc_0\scripts\^herosetup.lua
-assets\levels\pvp_dlc_0\scripts\global.lua
-assets\levels\pvp_dlc0_\scripts\music.lua
-assets\levels\plasma_harvester_pvp_pre\scripts\zone_whitebox_gameplay.lua
-assets\levels\plasma_harvester_pvp_pre\scripts\global.lua
-assets\levels\plasma_harvester_pvp_pre\scripts\invasion_database.lua
-assets\levels\plasma_harvester_pvp_pre\levelconfig.lua
+For example, it may looks like that: ```xml  
+assets\data\configs\weapon.csv  
+assets\data\configs\competitiveweapon.csv  
+assets\data\configs\competitivedefense.csv  
+assets\data\configs\ennemy.csv  
+assets\data\configs\competitivebasepurchase.csv  
+assets\data\configs\defense.cvs  
+assets\levels\acid_refinery_pvp\scripts\global.lua  
+assets\levels\pvp_dlc_0\scripts\herosetup.lua  
+assets\levels\pvp_dlc_0\scripts\global.lua  
+assets\levels\pvp_dlc0_\scripts\music.lua  
+assets\levels\plasma_harvester_pvp_pre\scripts\zone_whitebox_gameplay.lua  
+assets\levels\plasma_harvester_pvp_pre\scripts\global.lua  
+assets\levels\plasma_harvester_pvp_pre\scripts\invasion_database.lua  
+assets\levels\plasma_harvester_pvp_pre\levelconfig.lua  
 assets\built\game\scripts\universal_global.lua```  
 To pack a package, go to `Bruteforce Save Data` dir and start `PARAM_SFO_Editor.exe`.
 TitleID = The identifier of the game in the region that you want to pkg. Here are the IDs:
