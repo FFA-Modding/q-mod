@@ -5,7 +5,8 @@ Plus, to make the game realize it's a real update, I'll add a v1.06 patch, maybe
 ## FileList.xml infos
 
 To repack a game in a PSArc you'll have to create a `FileList.xml` and then write in the relative path to the file from the `FileList.xml`.  
-For example, it may looks like that: ```xml  
+For example, it may looks like that:  
+```xml  
 assets\data\configs\weapon.csv  
 assets\data\configs\competitiveweapon.csv  
 assets\data\configs\competitivedefense.csv  
