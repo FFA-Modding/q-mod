@@ -21,7 +21,8 @@ assets\levels\plasma_harvester_pvp_pre\scripts\zone_whitebox_gameplay.lua
 assets\levels\plasma_harvester_pvp_pre\scripts\global.lua  
 assets\levels\plasma_harvester_pvp_pre\scripts\invasion_database.lua  
 assets\levels\plasma_harvester_pvp_pre\levelconfig.lua  
-assets\built\game\scripts\universal_global.lua```  
+assets\built\game\scripts\universal_global.lua  
+```  
 To pack a package, go to `Bruteforce Save Data` dir and start `PARAM_SFO_Editor.exe`.
 TitleID = The identifier of the game in the region that you want to pkg. Here are the IDs:
 - `Disc Europe   : BCES01594`
