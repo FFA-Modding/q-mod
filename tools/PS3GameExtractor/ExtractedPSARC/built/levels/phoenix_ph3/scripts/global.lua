@@ -1,0 +1,6 @@
+prt("----> LOADED global SCRIPT")
+run_script("phoenix_ph3_vo")
+run_script("music")
+run_script("savedata")
+run_script("phoenix_screens")
+run_script("herosetup")

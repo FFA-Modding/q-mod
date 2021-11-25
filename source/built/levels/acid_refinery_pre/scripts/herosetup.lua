@@ -1,0 +1,6 @@
+heroes_add_bolts(6000)
+set_weapon_xp(0)
+hero_give_weapon(WPN_COMBUSTER)
+hero_give_weapon(WPN_ROCKET_LAUNCHER)
+hero_give_weapon(WPN_ICE_BEAM)
+hero_give_weapon(WPN_DECOY)

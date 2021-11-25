@@ -1,2 +1,9 @@
 data\configs\weapon.csv
 data\configs\enemy.csv
+built\levels\phoenix_ph1\scripts\herosetup.lc
+built\levels\phoenix_ph1\scripts\objectives_pho1.lc
+built\levels\phoenix_ph1\scripts\phoenix_screens.lc
+built\levels\phoenix_ph1\scripts\zone_gp_phoenix_ph1_01.lc
+built\levels\phoenix_ph3\scripts\zone_gp_phoenix_ph3_01.lc
+built\levels\phoenix_ph3\scripts\global.lc
+built\levels\phoenix_ph3\scripts\herosetup.lc
