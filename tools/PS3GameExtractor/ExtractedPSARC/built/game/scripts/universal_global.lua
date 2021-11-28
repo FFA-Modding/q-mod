@@ -152,7 +152,7 @@ function SetupPlatformingFollowCam(camAreaArray, camDist, camPitch)
   local heroes = {get_ratchet(), get_ratchet(), get_clank(), get_qwark()}
   local i;
   local j;
-  for i = 1, #heroes, 1 do 
+  for i = 1, #heroes, 1 do -- Right now it takes the heroes array just over here, so Ratchet, Ratchet, Clank and Qwark
     if (is_hero_active(heroes[i])) then
       for j = 1, #camAreaArray, 1 do
         on_enter(heroes[i], camAreaArray[j], function()
@@ -173,7 +173,7 @@ function ActivateCameraOnHeroesInVol(isInsideArray, inCam, outCam)
 
   local heroes = {get_ratchet(), get_ratchet(), get_clank(), get_qwark()}
   local i; 
-  for i = 1, 4, 1 do 
+  for i = 1, 4, 1 do -- Same here, it make the event for the 4 players
     if (is_hero_active(heroes[i])) then 
       if (isInsideArray[i]) then 
         activate_cam(heroes[i], inCam)
@@ -191,7 +191,7 @@ function ActivateOtherPlayerCam(player_1, player_2_cam)
 	-- Returns ref. to player 2
 	local heroes = {get_ratchet(), get_clank(), get_qwark()}
 	local i;
-	for i = 1, 4, 1 do
+	for i = 1, 4, 1 do -- Same
 		if is_hero_active(heroes[i]) and (heroes[i] ~= player_1) then
 			activate_cam(heroes[i], player_2_cam)
 			return heroes[i]
@@ -210,7 +210,7 @@ function heroIsLocal(hero)
   local heroLocal = {is_ratchet_local(), is_ratchet_local(), is_clank_local(), is_qwark_local()}
   
   local i; 
-  for i = 1, 4, 1 do 
+  for i = 1, 4, 1 do -- Same
     if ((hero == heroes[i]) and heroLocal[i]) then 
       return true;
     end 
@@ -263,7 +263,7 @@ local function getAphelionDriverAndPass()
   local driver = nil 
   local pass = nil
   local i;
-  for i = 1, #heroes, 1 do
+  for i = 1, #heroes, 1 do -- Same
     if ((driver ~= nil) and is_hero_active(heroes[i])) then
       pass = heroType[i]
       break; -- we have the driver and the passenger
@@ -299,7 +299,7 @@ local function getAphelionCam(actorType, isDriver)
   
   local heroTypes = {HERO.HERO_TYPE_RATCHET, HERO.HERO_TYPE_RATCHET, HERO.HERO_TYPE_QWARK, HERO.HERO_TYPE_CLANK}
   local i; 
-  for i = 1, #heroTypes, 1 do 
+  for i = 1, #heroTypes, 1 do -- Same but it takes heroTypes objects, with same characters
     if (heroTypes[i] == actorType) then 
       return ({camArray[i], animCamMobyArray[i]})
     end 
@@ -320,9 +320,9 @@ function DoHeroesExitAphelion(finCallback, aphelionPos, heroActors, aphelionMoby
   local driver2 = nil 
   local pass1 = nil
   local pass2 = nil 
-  local heroTypes  = {HERO.HERO_TYPE_RATCHET, HERO.HERO_TYPE_QWARK, HERO.HERO_TYPE_CLANK}
+  local heroTypes  = {HERO.HERO_TYPE_RATCHET, HERO.HERO_TYPE_RATCHET, HERO.HERO_TYPE_QWARK, HERO.HERO_TYPE_CLANK}
   local i; 
-  for i = 1, #heroTypes, 1 do 
+  for i = 1, #heroTypes, 1 do -- Same with local heroTypes
     if ((drivNPassHeroType[1] ~= nil) and (drivNPassHeroType[1] == heroTypes[i])) then 
       if (type(heroActors[i]) == "table") then 
         driver1 = heroActors[i][1]
@@ -428,7 +428,7 @@ function LandingSeq_GoToOpeningViewCam(p1_index, p2_index, focusPosArray, heroAr
     doEndCine = doEnableHeroes
   end
   
-  local heroes = {get_ratchet(), get_qwark(), get_clank()}
+  local heroes = {get_ratchet(), get_ratchet(), get_qwark(), get_clank()}
   
   fade_to_black(0.5)
   on_elapsed(0.5, function()
@@ -472,7 +472,6 @@ function LandingSeq_GoToOpeningViewCam(p1_index, p2_index, focusPosArray, heroAr
       on_elapsed(0.5, callback)
     end
   end)
-  
 end -- end LandingSeq_GoToOpeningViewCam
 
 -- -------------------------------- DoPCHeroFocus ------------------------ --
@@ -488,6 +487,7 @@ function DoPCHeroFocus(callback, p1_cams, p1_camMoby, p2_cams, p2_camMoby, focus
   local p3_index = -1
   local p4_index = -1
   local i;
+  -- Strangely, the players indexes were already here, I maybe added them before (V E L D)
     
   local waitTime = 0 
   if (doFade) then 
@@ -497,19 +497,23 @@ function DoPCHeroFocus(callback, p1_cams, p1_camMoby, p2_cams, p2_camMoby, focus
   
   on_elapsed(waitTime, function()
     play_anim_query(aphelion, AnimQuery.IDLE_CAT, AnimQuery.IDLE_STAND)
-    for i = 1, 3, 1 do 
+    for i = 1, 4, 1 do -- Do this code for 4 players
       hide(heroArray[i])
       if (is_hero_active(heroes[i])) then 
         if (p1_index == -1) then 
-          p1_index = i 
+          p1_index = i
+        elseif(p2_index == -1) then
+          p2_index = i
+        elseif(p3_index == -1) then
+          p3_index = i
         else
-          p2_index = i 
-          break; -- we have both players
-        end 
-      end 
-    end 
+          p4_index = i -- we have 4 players attributed
+          break;
+        end
+      end
+    end
     
-    prt("P1 = " .. tostring(p1_index) .. ", P2 = " .. tostring(p2_index))
+    prt("P1 = " .. tostring(p1_index) .. ", P2 = " .. tostring(p2_index) .. ", P3 = " .. tostring(p3_index) .. ", P4 = " .. tostring(p4_index))
     if (p1_index == -1) then 
       prt("UniversalGlobal:DoPCHeroFocus - ERROR! No active hero found!")
       return;
@@ -598,7 +602,6 @@ function DoPCHeroFocus(callback, p1_cams, p1_camMoby, p2_cams, p2_camMoby, focus
       unset_event()
     end)
   end) -- end wait to fade down 
-
 end -- end DoPCHeroFocus
 
 -- -------------------------- DoHeroesJumpOutAphelion -------------------- --
