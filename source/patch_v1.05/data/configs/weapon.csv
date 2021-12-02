@@ -87,8 +87,8 @@ WPN_ROCKET_LAUNCHER,,,,,,,
 ,AutoAim,,1,1,1,1,1
 ,RateOfFire,,0.75,0.75,0.75,1,1
 ,AOE,,6,6,10,10,10
-,MaxAmmo,,5,6,10,10,10
-,CrateAmmo,,5,6,10,10,10
+,MaxAmmo,,5,6,7,8,10
+,CrateAmmo,,5,6,7,8,10
 ,MaxRange,,100,100,100,100,100
 ,IdealRange,,20,20,20,20,20
 ,RotationJoint,,3,3,3,3,3
@@ -114,7 +114,7 @@ WPN_COMBUSTER,,,,,,,
 ,AutoAim,,1,1,1,1,1
 ,RateOfFire,shots per second,4,4,4,5,5
 ,MaxAmmo,,40,50,60,70,80
-,CrateAmmo,,40,50,60,70,80
+,CrateAmmo,,40,50,60,65,65
 ,RotationJoint,,2,2,2,2,2
 ,XP,,0.0,594.0,3000.0,9000.0,15000.0
 ,SpawnChance,,1.5,1.5,1.5,1.5,1.5
