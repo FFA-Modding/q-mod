@@ -9,7 +9,7 @@ To contribute, you'll push to a local *head* branch, we'll approve it by merging
 
 Credits:
 - Created by Zaitara
-- Dev by Zaitara and V E L D
+- Dev by Zaitara
 - Testing by BellumZeldaDS and random victims
 
 ## INSTALLATION
